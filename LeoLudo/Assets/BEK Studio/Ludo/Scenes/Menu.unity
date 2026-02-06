@@ -12980,8 +12980,8 @@ MonoBehaviour:
   linkGameObject: {fileID: 1647102989}
   selectColourText: {fileID: 524914654}
   mainBottom: {fileID: 594349977}
-  mainBottomHomeActive: {fileID: 0}
-  mainBottomStoreActive: {fileID: 0}
+  mainBottomHomeActive: {fileID: 594349977}
+  mainBottomStoreActive: {fileID: 594349977}
   homeScreen: {fileID: 2111044167}
   storeScreen: {fileID: 4587923231571085276}
   storePanel: {fileID: 534254938}
