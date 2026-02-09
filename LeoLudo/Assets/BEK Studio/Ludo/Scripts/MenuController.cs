@@ -46,10 +46,10 @@ namespace BEKStudio
         public GameObject mainBottomStoreActive;
         [Header("Home")]
         public GameObject homeScreen;
-       // public RectTransform homeTitle;
-       // public RectTransform homeOnline;
-      //  public RectTransform homeComputer;
-      //  public RectTransform homecomputer_offlinemultiplayer;
+        // public RectTransform homeTitle;
+        // public RectTransform homeOnline;
+        //  public RectTransform homeComputer;
+        //  public RectTransform homecomputer_offlinemultiplayer;
         [Header("Store")]
         public GameObject storeScreen;
         public GameObject storePanel;
@@ -75,7 +75,7 @@ namespace BEKStudio
 
         private static bool splashPlayed = false;
 
-        
+
 
         void Awake()
         {
@@ -121,7 +121,7 @@ namespace BEKStudio
             //topAvatarImg.sprite = avatars[PlayerPrefs.GetInt("avatar", 0)];
             UpdateCoinText();
 
-Time.timeScale = 1f;
+            Time.timeScale = 1f;
 
 
             AdsManager.Instance.DestoryBannerAd();
@@ -201,28 +201,28 @@ Time.timeScale = 1f;
 
         void HomeShow()
         {
-          /*  homeTitle.GetComponent<Image>().color = new Color(1, 1, 1, 0);
-            homeOnline.anchoredPosition = new Vector2(-765f, -24.7f);
-            homeComputer.anchoredPosition = new Vector2(765f, -461.7f);
-            homecomputer_offlinemultiplayer.anchoredPosition = new Vector2(0, -1337f);*/
+            /*  homeTitle.GetComponent<Image>().color = new Color(1, 1, 1, 0);
+              homeOnline.anchoredPosition = new Vector2(-765f, -24.7f);
+              homeComputer.anchoredPosition = new Vector2(765f, -461.7f);
+              homecomputer_offlinemultiplayer.anchoredPosition = new Vector2(0, -1337f);*/
 
             homeScreen.SetActive(true);
             MainBottomCheckTabs();
 
-          /*  LeanTween.alpha(homeTitle, 1, 0.2f);
-            LeanTween.move(homeOnline, new Vector2(0, 192f), 0.2f).setDelay(0.1f);
-            LeanTween.move(homeComputer, new Vector2(0, -215f), 0.2f).setDelay(0.2f);
-            LeanTween.move(homecomputer_offlinemultiplayer, new Vector2(0, -592f), 0.2f).setDelay(0.3f);*/
+            /*  LeanTween.alpha(homeTitle, 1, 0.2f);
+              LeanTween.move(homeOnline, new Vector2(0, 192f), 0.2f).setDelay(0.1f);
+              LeanTween.move(homeComputer, new Vector2(0, -215f), 0.2f).setDelay(0.2f);
+              LeanTween.move(homecomputer_offlinemultiplayer, new Vector2(0, -592f), 0.2f).setDelay(0.3f);*/
         }
 
         void HomeClose()
         {
-          /*  LeanTween.alpha(homeTitle, 0, 0.2f);
-            LeanTween.move(homeOnline, new Vector2(-765f, -24.7f), 0.2f).setDelay(0.1f);
-            LeanTween.move(homeComputer, new Vector2(765f, -461.7f), 0.2f).setDelay(0.2f).setOnComplete(() =>
-            {
-                homeScreen.SetActive(false);
-            });*/
+            /*  LeanTween.alpha(homeTitle, 0, 0.2f);
+              LeanTween.move(homeOnline, new Vector2(-765f, -24.7f), 0.2f).setDelay(0.1f);
+              LeanTween.move(homeComputer, new Vector2(765f, -461.7f), 0.2f).setDelay(0.2f).setOnComplete(() =>
+              {
+                  homeScreen.SetActive(false);
+              });*/
         }
 
         void MainBottomCheckTabs()
@@ -252,10 +252,10 @@ Time.timeScale = 1f;
             //Check pawn is selected
             if (PlayerPrefs.HasKey("pawnColor"))
             {
-               // PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
+                // PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
 
-        PlayerPrefs.SetInt("IsOfflineMultiplayer", 1);
-        PlayerPrefs.SetInt("IsPractice", 0);   //  PRACTICE OFF
+                PlayerPrefs.SetInt("IsOfflineMultiplayer", 1);
+                PlayerPrefs.SetInt("IsPractice", 0);   //  PRACTICE OFF
 
 
                 PlayerPrefs.SetString("mode", "computer");
@@ -307,7 +307,7 @@ Time.timeScale = 1f;
 
             DeactivatePages();
 
-          //  PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
+            //  PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
             PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
             PlayerPrefs.SetInt("IsPractice", 0);   // PRACTICE OFF
             PlayerPrefs.SetString("mode", "computer");
@@ -338,8 +338,8 @@ Time.timeScale = 1f;
 
             if (PlayerPrefs.HasKey("pawnColor"))
             {
-           //    PlayerPrefs.SetInt("IsPractice", 1);   //  NEW FLAG For Practice Mode 3-2-2026
-                
+                //    PlayerPrefs.SetInt("IsPractice", 1);   //  NEW FLAG For Practice Mode 3-2-2026
+
                 PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
                 PlayerPrefs.SetInt("IsPractice", 1);//  NEW FLAG For Practice Mode 3-2-2026
 
@@ -362,6 +362,29 @@ Time.timeScale = 1f;
             //DeactivatePages();
         }
 
+        //Quick Match Button in Multiplayer Panel
+        public void QuickMatchButton()
+        {
+            if (PlayerPrefs.HasKey("pawnColor"))
+            {
+                PlayerPrefs.SetString("mode", "quick");
+                PlayerPrefs.Save();
+                PlayerCountShow();
+            }
+            else
+            {
+                //Actiavte selectColourText for 1 second then deactivate using leetween
+                selectColourText.SetActive(true);
+                LeanTween.scale(selectColourText, Vector2.one, 0.2f).setEaseOutBack().setOnComplete(() =>
+                {
+                    LeanTween.scale(selectColourText, Vector2.zero, 0.2f).setDelay(1.0f).setEaseInBack().setOnComplete(() =>
+                    {
+                        selectColourText.SetActive(false);
+                    });
+                });
+            }
+        }
+
         //OLD FUNCTIONS
         public void MainOnlineBtn()
         {
@@ -378,8 +401,8 @@ Time.timeScale = 1f;
             AudioController.Instance.PlayButtonSound();
             if (pawnSelectScreen.activeInHierarchy) return;
 
-           PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
-    PlayerPrefs.SetInt("IsPractice", 0);   //  PRACTICE OFF
+            PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
+            PlayerPrefs.SetInt("IsPractice", 0);   //  PRACTICE OFF
             PlayerPrefs.SetString("mode", "computer");
             PlayerPrefs.Save();
             PawnSelectShow();
@@ -390,7 +413,7 @@ Time.timeScale = 1f;
             AudioController.Instance.PlayButtonSound();
             if (pawnSelectScreen.activeInHierarchy) return;
 
-           PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
+            PlayerPrefs.SetInt("IsOfflineMultiplayer", 0);
             PlayerPrefs.SetInt("IsPractice", 0);   //  PRACTICE OFF
             PlayerPrefs.SetString("mode", "computer");
             PlayerPrefs.Save();
@@ -577,76 +600,109 @@ Time.timeScale = 1f;
 
         }
 
-       /* void PlayerCountShow()
+        /* void PlayerCountShow()
+         {
+             Debug.Log("PlayerCountShow");
+             //playerCountPanel.transform.localScale = Vector2.zero;
+             playerCountEntryFee.text = PhotonController.Instance.gameEntryPrice().ToString("###,###,###");
+             playerCountScreen.SetActive(true);
+
+             //LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
+
+
+
+         }*/
+        //New 3-2-2026 Method for Practice Mode Entry Fee Free
+        void PlayerCountShow()
         {
-            Debug.Log("PlayerCountShow");
-            //playerCountPanel.transform.localScale = Vector2.zero;
-            playerCountEntryFee.text = PhotonController.Instance.gameEntryPrice().ToString("###,###,###");
+
+            /* Ensure starting state
+          playerCountPanel.transform.localScale = Vector3.zero;
+
+
+          LeanTween.cancel(playerCountPanel);
+          LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
+          int entryFee;
+
+          if (PlayerPrefs.GetInt("IsPractice", 0) == 1)
+          {
+              entryFee = 0;
+              playerCountEntryFee.text = "FREE";
+          }
+          else
+          {
+              entryFee = PhotonController.Instance.gameEntryPrice();
+              playerCountEntryFee.text = entryFee.ToString("###,###,###");
+          }
+
+          playerCountScreen.SetActive(true);*/
+
+
+            //  Purana tween cancel + start state reset
+            LeanTween.cancel(playerCountPanel);
+            playerCountPanel.transform.localScale = Vector3.zero;
+
+            // Entry fee logic (same as yours)
+            if (PlayerPrefs.GetInt("IsPractice", 0) == 1)
+            {
+                playerCountEntryFee.text = "FREE";
+            }
+            else
+            {
+                int entryFee = PhotonController.Instance.gameEntryPrice();
+                playerCountEntryFee.text = entryFee.ToString("###,###,###");
+            }
+
+            // Screen ON
             playerCountScreen.SetActive(true);
 
-            //LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
-
-
-
-        }*/
-//New 3-2-2026 Method for Practice Mode Entry Fee Free
-void PlayerCountShow()
-{
-    
-      /* Ensure starting state
-    playerCountPanel.transform.localScale = Vector3.zero;
-   
-
-    LeanTween.cancel(playerCountPanel);
-    LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
-    int entryFee;
-
-    if (PlayerPrefs.GetInt("IsPractice", 0) == 1)
-    {
-        entryFee = 0;
-        playerCountEntryFee.text = "FREE";
-    }
-    else
-    {
-        entryFee = PhotonController.Instance.gameEntryPrice();
-        playerCountEntryFee.text = entryFee.ToString("###,###,###");
-    }
-
-    playerCountScreen.SetActive(true);*/
-
-
-//  Purana tween cancel + start state reset
-    LeanTween.cancel(playerCountPanel);
-    playerCountPanel.transform.localScale = Vector3.zero;
-
-    // Entry fee logic (same as yours)
-    if (PlayerPrefs.GetInt("IsPractice", 0) == 1)
-    {
-        playerCountEntryFee.text = "FREE";
-    }
-    else
-    {
-        int entryFee = PhotonController.Instance.gameEntryPrice();
-        playerCountEntryFee.text = entryFee.ToString("###,###,###");
-    }
-
-    // Screen ON
-    playerCountScreen.SetActive(true);
-
-    //  Open animation
-    LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
+            //  Open animation
+            LeanTween.scale(playerCountPanel, Vector2.one, 0.2f).setEaseOutBack();
 
 
 
 
-}
+        }
 
-/*
+        /*
+                public void PlayerCountItemBtn(int playerCount)
+                {
+                    AudioController.Instance.PlayButtonSound();
+
+                    int entryFee = PhotonController.Instance.gameEntryPrice();
+
+                    if (PlayerPrefs.GetInt("coin") < entryFee)
+                    {
+                        playerCountScreen.SetActive(false);
+                        DeactivatePages();
+                        StoreShow();
+                        return;
+                    }
+
+                    PlayerPrefs.SetInt("playerCount", playerCount);
+                    PlayerPrefs.Save();
+                    if (PhotonController.Instance.gameMode() == "online")
+                    {
+                        OnlineShow();
+                        PhotonController.Instance.Connect();
+                    }
+                    else
+                    {
+                        SceneManager.LoadScene("Game");
+                    }
+                }
+        */
+
+
         public void PlayerCountItemBtn(int playerCount)
         {
             AudioController.Instance.PlayButtonSound();
 
-            int entryFee = PhotonController.Instance.gameEntryPrice();
+            //  PRACTICE = FREE, baaki sab normal
+            int entryFee =
+                PlayerPrefs.GetInt("IsPractice", 0) == 1
+                ? 0
+                : PhotonController.Instance.gameEntryPrice();
 
             if (PlayerPrefs.GetInt("coin") < entryFee)
             {
@@ -658,7 +714,16 @@ void PlayerCountShow()
 
             PlayerPrefs.SetInt("playerCount", playerCount);
             PlayerPrefs.Save();
-            if (PhotonController.Instance.gameMode() == "online")
+
+            //  PRACTICE FLAG CLEAR (important)
+
+
+            if(PhotonController.Instance.gameMode() == "quick")
+            {
+                OnlineShow();
+                PhotonController.Instance.Connect();
+            }
+            else if (PhotonController.Instance.gameMode() == "online")
             {
                 OnlineShow();
                 PhotonController.Instance.Connect();
@@ -668,71 +733,34 @@ void PlayerCountShow()
                 SceneManager.LoadScene("Game");
             }
         }
-*/
-
-
-public void PlayerCountItemBtn(int playerCount)
-{
-    AudioController.Instance.PlayButtonSound();
-
-    //  PRACTICE = FREE, baaki sab normal
-    int entryFee =
-        PlayerPrefs.GetInt("IsPractice", 0) == 1
-        ? 0
-        : PhotonController.Instance.gameEntryPrice();
-
-    if (PlayerPrefs.GetInt("coin") < entryFee)
-    {
-        playerCountScreen.SetActive(false);
-        DeactivatePages();
-        StoreShow();
-        return;
-    }
-
-    PlayerPrefs.SetInt("playerCount", playerCount);
-    PlayerPrefs.Save();
-
-    //  PRACTICE FLAG CLEAR (important)
-   
-
-    if (PhotonController.Instance.gameMode() == "online")
-    {
-        OnlineShow();
-        PhotonController.Instance.Connect();
-    }
-    else
-    {
-        SceneManager.LoadScene("Game");
-    }
-}
 
         //New Method to close player count panel and delete pawncolor key
         bool isClosingPlayerCount = false;
         public void ClosePlayerCountButton()
         {
-          /*  
+            /*  
+              AudioController.Instance.PlayButtonSound();
+              PlayerPrefs.DeleteKey("pawnColor");
+             // ResetPracticeFlag();
+
+              PlayerCountClose();*/
+
+            if (isClosingPlayerCount) return;   // 🔒 double click / spam block
+            isClosingPlayerCount = true;
+
             AudioController.Instance.PlayButtonSound();
             PlayerPrefs.DeleteKey("pawnColor");
-           // ResetPracticeFlag();
-           
-            PlayerCountClose();*/
 
-if (isClosingPlayerCount) return;   // 🔒 double click / spam block
-    isClosingPlayerCount = true;
+            PlayerCountClose();
 
-    AudioController.Instance.PlayButtonSound();
-    PlayerPrefs.DeleteKey("pawnColor");
-
-    PlayerCountClose();
-
-    // 🔓 unlock after animation
-    Invoke(nameof(UnlockPlayerCountClose), 0.25f);
+            // 🔓 unlock after animation
+            Invoke(nameof(UnlockPlayerCountClose), 0.25f);
         }
 
-void UnlockPlayerCountClose()
-{
-    isClosingPlayerCount = false;
-}
+        void UnlockPlayerCountClose()
+        {
+            isClosingPlayerCount = false;
+        }
 
         public void PlayerCountCloseBtn()
         {
@@ -741,7 +769,7 @@ void UnlockPlayerCountClose()
 
             PlayerPrefs.DeleteKey("pawnSelect");
             ResetPracticeFlag();
-            
+
             if (selectModeScreen.activeInHierarchy)
                 ButtonAlphaState(offlineModeButton, 0.3f, false);
 
@@ -756,25 +784,25 @@ void UnlockPlayerCountClose()
 
         void PlayerCountClose()
         {
-          /* LeanTween.cancel(playerCountPanel);
-           playerCountScreen.SetActive(true);
-            LeanTween.scale(playerCountPanel, Vector2.zero, 0.2f).setEaseInBack().setOnComplete(() =>
-            {
-                playerCountScreen.SetActive(false);
-            });*/
+            /* LeanTween.cancel(playerCountPanel);
+             playerCountScreen.SetActive(true);
+              LeanTween.scale(playerCountPanel, Vector2.zero, 0.2f).setEaseInBack().setOnComplete(() =>
+              {
+                  playerCountScreen.SetActive(false);
+              });*/
 
 
 
-                //  Purana tween cancel
-                LeanTween.cancel(playerCountPanel);
+            //  Purana tween cancel
+            LeanTween.cancel(playerCountPanel);
 
-                //  Close animation
-                LeanTween.scale(playerCountPanel, Vector2.zero, 0.2f)
-                    .setEaseInBack()
-                    .setOnComplete(() =>
-                    {
-                        playerCountScreen.SetActive(false);
-                    });
+            //  Close animation
+            LeanTween.scale(playerCountPanel, Vector2.zero, 0.2f)
+                .setEaseInBack()
+                .setOnComplete(() =>
+                {
+                    playerCountScreen.SetActive(false);
+                });
 
 
 
@@ -841,13 +869,13 @@ void UnlockPlayerCountClose()
                 topUsernameText.text = usernameInput.text;
                 UsernameClose();
                 //  Profile UI update (agar profile script active hai)
-     //   OnClickProfileButton profile = FindObjectOfType<OnClickProfileButton>();
-        OnClickProfileButton profile = FindFirstObjectByType<OnClickProfileButton>();
+                //   OnClickProfileButton profile = FindObjectOfType<OnClickProfileButton>();
+                OnClickProfileButton profile = FindFirstObjectByType<OnClickProfileButton>();
 
-        if (profile != null)
-        {
-            profile.RefreshUsernameFromServer();
-        }
+                if (profile != null)
+                {
+                    profile.RefreshUsernameFromServer();
+                }
             }
         }
 
@@ -887,25 +915,25 @@ void UnlockPlayerCountClose()
             });
         }
 
-         public void ResetFullGameData()
-    {
-        Debug.Log(" RESETTING FULL GAME DATA");
+        public void ResetFullGameData()
+        {
+            Debug.Log(" RESETTING FULL GAME DATA");
 
-        PlayerPrefs.DeleteAll();   //  Sab data clear
-        PlayerPrefs.Save();
+            PlayerPrefs.DeleteAll();   //  Sab data clear
+            PlayerPrefs.Save();
 
-        Debug.Log(" Game data reset complete");
+            Debug.Log(" Game data reset complete");
 
-        // Optional: App ya scene restart
-        // UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
-    }
+            // Optional: App ya scene restart
+            // UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+        }
 
-void ResetPracticeFlag()
-{
-    PlayerPrefs.SetInt("IsPractice", 0);
-    PlayerPrefs.Save();
-    Debug.Log("IsPractice reset to 0");
-}
+        void ResetPracticeFlag()
+        {
+            PlayerPrefs.SetInt("IsPractice", 0);
+            PlayerPrefs.Save();
+            Debug.Log("IsPractice reset to 0");
+        }
 
 
 
