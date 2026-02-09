@@ -1,4 +1,4 @@
-using Photon.Pun;
+﻿using Photon.Pun;
 using Photon.Realtime;
 using System.Collections;
 using System.Collections.Generic;
@@ -50,7 +50,7 @@ namespace BEKStudio
         string winnerColor;
 
         List<string> finishOrder = new List<string>(); //New Add 31-1-2026
-        private bool mustKillToWin;
+        internal bool mustKillToWin;
         private int requiredHomePawns;
 
         void Awake()
@@ -635,12 +635,15 @@ namespace BEKStudio
                         wait = true;
                         activePawn.ReturnToBase();
                         currentPawnController.canPlayAgain = true;
+                        // Mark 1 kill for quick match mode
+                        currentPawnController.hasKilledOpponent = true;
                     }
                 }
             }
 
             if (!wait)
             {
+                Debug.Log("Check Pawn for sAMe Way");
                 CheckForFinish();
             }
         }
@@ -650,6 +653,7 @@ namespace BEKStudio
         public void CheckForFinish(string color = "")
         {
             Debug.Log("CheckForFinish CALLED");
+
 
             foreach (PawnController pc in activePawnControllers)
             {
@@ -746,7 +750,8 @@ namespace BEKStudio
             if (!isLocal && !PhotonNetwork.IsMasterClient) return;
 
             gameState = GameState.DICE;
-            currentDice = Random.Range(0, 6);
+            currentDice = Random.Range(4, 6);
+            //currentDice = Random.Range(0, 6);
             AudioController.Instance.PlayDiceSound();
 
             if (isLocal)
@@ -1026,6 +1031,7 @@ namespace BEKStudio
         }
         public void UpdateStackedPawns(int wayID)
         {
+
             List<Pawn> sameTilePawns = new List<Pawn>();
 
             foreach (Pawn p in allPawns)
@@ -1076,17 +1082,5 @@ namespace BEKStudio
                 sameTilePawns[i].transform.localScale *= scale;
             }
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

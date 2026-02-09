@@ -12979,9 +12979,9 @@ MonoBehaviour:
   rewardScreen: {fileID: 2131497580}
   linkGameObject: {fileID: 1647102989}
   selectColourText: {fileID: 524914654}
-  mainBottom: {fileID: 594349977}
-  mainBottomHomeActive: {fileID: 594349977}
-  mainBottomStoreActive: {fileID: 594349977}
+  mainBottom: {fileID: 76928965}
+  mainBottomHomeActive: {fileID: 76928965}
+  mainBottomStoreActive: {fileID: 76928965}
   homeScreen: {fileID: 2111044167}
   storeScreen: {fileID: 4587923231571085276}
   storePanel: {fileID: 534254938}
