@@ -53,6 +53,25 @@ namespace BEKStudio
         internal bool mustKillToWin;
         private int requiredHomePawns;
 
+        [Header("Glow")]
+        public GameObject greenGlow;
+        public GameObject yellowGlow;
+        public GameObject blueGlow;
+        public GameObject redGlow;
+
+        [Header("Mask")]
+        public GameObject greenMask;
+        public GameObject yellowMask;       
+        public GameObject blueMask;
+        public GameObject redMask;
+
+        public bool freeUndoUsed = false; //Undo feature ke liye lagaya gya he 10-2-2026 me
+        // UI refs undo ke liye 10-2-2026 me add kiya gya he
+        public GameObject undoSimpleimage;   // "1"
+        public GameObject undoAdImage;     // Ad icon
+
+
+
         void Awake()
         {
             if (Instance == null)
@@ -192,6 +211,66 @@ namespace BEKStudio
 
 
 
+public void UndoTurnButton()
+{
+    // Safety check
+    if (gameState == GameState.MOVING || gameState == GameState.FINISHED)
+        return;
+
+    if (!freeUndoUsed)
+    {
+        freeUndoUsed = true;
+        UpdateUndoButtonUI();
+        GiveTurnBack();
+    }
+    else
+    {
+        // Show rewarded ad
+       AdsManager.Instance.pendingReward = AdsManager.RewardType.UndoTurn;
+       AdsManager.Instance.ShowRewardedAd();
+      //  });
+    }
+}
+
+
+
+
+
+
+
+// Ye turn back method he jo player ko uska turn wapas dega jab wo undo karega - 10-2-2026 me add kiya gya HE
+public void GiveTurnBack()
+{
+    // Stop any animations / timers
+    currentPawnController.StopAnimation();
+
+    // Reset state so player can roll dice again
+    ChangeGameState(GameState.READY);
+
+    // Reset timer
+    currentPawnController.time = 10;
+    currentPawnController.canPlayAgain = false;
+
+    // Start timer animation again (optional)
+    currentPawnController.StartTimer(true);
+
+    Debug.Log("Turn given back to same player");
+}
+
+// Ui Update karne ke liye he ye to khali button ke text aur image ko update karega free undo ya ad undo ke hisab se - 10-2-2026 me add kiya gya HE
+void UpdateUndoButtonUI()
+{
+    if (!freeUndoUsed)
+    {
+        undoSimpleimage.SetActive(true);
+        undoAdImage.SetActive(false);
+    }
+    else
+    {
+        undoSimpleimage.SetActive(false);
+        undoAdImage.SetActive(true);
+    }
+}
 
 
 
@@ -428,6 +507,10 @@ namespace BEKStudio
 
             currentPawnController.time = 10;
             currentPawnController.canPlayAgain = false;
+            //  YAHAN Pe Glow Update Karne Ke Liye Code Add Kiya He 4-1-2026
+                UpdateGlow(currentPawnController);
+                //  YAHAN Pe Glow Update Karne Ke Liye Code Add Kiya He 4-1-2026
+                UpdateGlow(currentPawnController);
 
             ChangeGameState(GameState.READY);
 
@@ -475,6 +558,29 @@ namespace BEKStudio
 
             return null;
         }
+
+void StartPulse(GameObject obj)
+{
+    LeanTween.cancel(obj);
+
+    // Zoom / Pulse
+    LeanTween.scale(obj, Vector3.one * 1.08f, 0.5f)
+        .setEaseInOutSine()
+        .setLoopPingPong();
+}
+
+void StopPulse(GameObject obj)
+{
+    if (obj == null) return;
+
+    LeanTween.cancel(obj);
+    obj.transform.localScale = Vector3.one;
+}
+
+
+
+
+
 
 
 
@@ -954,6 +1060,44 @@ namespace BEKStudio
                 }
             }
         }
+
+//coin Ranking System Ke Liye 4-1-2026 new
+
+
+int GetRankReward(int totalPlayers, int rank) // rank: 1 = first, 2 = second...
+{
+    if (totalPlayers == 2)
+    {
+        if (rank == 1) return 120;
+        if (rank == 2) return 30;
+    }
+    else if (totalPlayers == 3)
+    {
+        if (rank == 1) return 150;
+        if (rank == 2) return 50;
+        if (rank == 3) return 25;
+    }
+    else if (totalPlayers == 4)
+    {
+        if (rank == 1) return 180;
+        if (rank == 2) return 70;
+        if (rank == 3) return 30;
+        if (rank == 4) return 20;
+    }
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
         public void FinishedMenuBtn()
         {
             PlayerPrefs.DeleteKey("IsPractice"); // Clear practice flag on exit
@@ -1086,5 +1230,67 @@ public void UpdateStackedPawns(int wayID)
    
       
     }
+
+//Ring Glow karne Profile Mask Keliye 9-2-2026 10-2-2026
+
+void UpdateGlow(PawnController active)
+{
+    // Sab band + stop
+    StopPulse(redGlow);
+    StopPulse(greenGlow);
+    StopPulse(blueGlow);
+    StopPulse(yellowGlow);
+
+    // Sab band + stop (Profile Masks)
+    StopPulse(redMask);   redMask.SetActive(false);
+    StopPulse(greenMask); greenMask.SetActive(false);
+    StopPulse(blueMask);  blueMask.SetActive(false);
+    StopPulse(yellowMask);yellowMask.SetActive(false);
+
+    redGlow.SetActive(false);
+    greenGlow.SetActive(false);
+    blueGlow.SetActive(false);
+    yellowGlow.SetActive(false);
+
+    // Sirf active wala on + pulse
+    if (active == greenPawn)
+    {
+        greenGlow.SetActive(true);
+        StartPulse(greenGlow);
+
+
+        greenMask.SetActive(true); 
+        StartPulse(greenMask);
+    }
+    else if (active == yellowPawn)
+    {
+        yellowGlow.SetActive(true);
+        StartPulse(yellowGlow);
+
+
+        yellowMask.SetActive(true);
+        StartPulse(yellowMask);
+    }
+    else if (active == bluePawn)
+    {
+        blueGlow.SetActive(true);
+        StartPulse(blueGlow);
+
+        blueMask.SetActive(true);
+        StartPulse(blueMask);
+    }
+    else if (active == redPawn)
+    {
+        redGlow.SetActive(true);
+        StartPulse(redGlow);
+
+        redMask.SetActive(true);
+        StartPulse(redMask);
     }
 }
+
+
+    }
+    
+    
+    }
