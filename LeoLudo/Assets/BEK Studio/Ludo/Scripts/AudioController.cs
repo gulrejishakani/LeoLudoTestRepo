@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,6 +14,8 @@ namespace BEKStudio {
         public AudioClip buttonClip;
         public AudioSource musicAudioSource;
         public AudioClip musicAudioClip;
+        public AudioSource winAudioSource;
+        public AudioClip winAudioClip;
 
         [Header("SFX Effect")]
         public bool isSFXEnable = true;
@@ -91,6 +94,15 @@ namespace BEKStudio {
 
             if (buttonAudioSource.isPlaying) buttonAudioSource.Stop();
             buttonAudioSource.PlayOneShot(buttonClip);
+        }
+
+        internal void PlayWinSound()
+        {
+            if (!isSFXEnable) return;
+            if (winAudioSource == null) return;
+            if (winAudioClip == null) return;
+            if (winAudioSource.isPlaying) winAudioSource.Stop();
+            winAudioSource.PlayOneShot(winAudioClip);
         }
     }
 }

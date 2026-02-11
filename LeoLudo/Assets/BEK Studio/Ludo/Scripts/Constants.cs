@@ -24,8 +24,8 @@ namespace BEKStudio {
         public static int IAP_PACK_5_COIN = 8000;
         public static int IAP_PACK_6_COIN = 12000;
 
-        public static string ADMOB_BANNER_ANDROID_ID = "ca-app-pub-3940256099942544/6300978111";
-        public static string ADMOB_INTERSTITIAL_ANDROID_ID = "ca-app-pub-3940256099942544/1033173712";
+        public static string ADMOB_BANNER_ANDROID_ID = "ca-app-pub-5157142398704775/2668927026"; //Updated
+        public static string ADMOB_INTERSTITIAL_ANDROID_ID = "ca-app-pub-5157142398704775/8164786548"; //Updated
         public static string ADMOB_REWARDED_ANDROID_ID = "ca-app-pub-3940256099942544/5224354917";
 
         public static string ADMOB_BANNER_IOS_ID = "ca-app-pub-3940256099942544/2934735716";

@@ -87,7 +87,7 @@ namespace BEKStudio
                             if (GameController.Instance.mustKillToWin && !pawnController.hasKilledOpponent)
                             {
                                 //Continue looping on normal path
-                                LeanTween.move(gameObject, GameController.Instance.waypointParent.GetChild(currentWayID).position, 0.1f).setDelay(0.05f).setOnComplete(() =>
+                                LeanTween.move(gameObject, GameController.Instance.waypointParent.GetChild(currentWayID).position, 0.3f).setDelay(0.05f).setOnComplete(() =>
                                 {
                                     AudioController.Instance.PlayPawnMoveSound();
                                     moveCount++;
@@ -102,7 +102,9 @@ namespace BEKStudio
 
                             string[] parseName = gameObject.name.Split("-");
                             Transform colorWay = GameController.Instance.colorWayParent.Find(parseName[0]);
-                            LeanTween.move(gameObject, colorWay.GetChild(moveCount - 50).position, 0.1f).setDelay(0.05f).setOnComplete(() =>
+                            animator.SetTrigger("Jump");
+
+                            LeanTween.move(gameObject, colorWay.GetChild(moveCount - 50).position, 0.3f).setDelay(0.05f).setOnComplete(() =>
                             {
                                 AudioController.Instance.PlayPawnMoveSound();
                                 moveCount++;
