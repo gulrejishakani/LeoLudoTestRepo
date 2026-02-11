@@ -33,7 +33,7 @@ namespace BEKStudio {
         public static string ADMOB_REWARDED_IOS_ID = "ca-app-pub-3940256099942544/1712485313";
 
         public static int ADMOB_REWARDED_AD_PRICE = 150;
-        public static int ADMOB_REWARDED_AD_WATCH = 25;
+        public static int ADMOB_REWARDED_AD_WATCH = 40;
 
     }
 }
