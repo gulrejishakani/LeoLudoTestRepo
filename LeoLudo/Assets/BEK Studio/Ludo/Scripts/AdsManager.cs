@@ -9,6 +9,15 @@ namespace BEKStudio{
         RewardedAd rewardedAd;
         InterstitialAd interstitialAd;
         BannerView bannerView;
+// ye reward type ko use karenge jab user rewarded ad dekhega tab usko kya reward milega, coins ya undo turn
+        public enum RewardType
+{
+    Coins,
+    UndoTurn
+}
+
+public RewardType pendingReward = RewardType.Coins; // Default reward type ya coin ke liye set kar diya hai, agar future me undo turn ka option add karna ho to isko change kar sakte hai
+
 
 
         void Awake() {
@@ -159,9 +168,40 @@ namespace BEKStudio{
         }
 
 
+void GiveReward()
+{
+    if (pendingReward == RewardType.Coins)
+    {
+        int oldCoin = PlayerPrefs.GetInt("coin");
+        int newCoin = oldCoin + Constants.ADMOB_REWARDED_AD_WATCH;
+
+        PlayerPrefs.SetInt("coin", newCoin);
+        PlayerPrefs.Save();
+        MenuController.Instance.UpdateCoinText();
+    }
+    else if (pendingReward == RewardType.UndoTurn)
+    {
+        if (GameController.Instance != null)
+        {
+            GameController.Instance.GiveTurnBack();
+        }
+    }
+
+    // safety reset
+    pendingReward = RewardType.Coins;
+}
 
 
-        void GiveReward()
+
+
+
+
+
+
+
+
+
+      /*  void GiveReward()
         {
             int oldCoin = PlayerPrefs.GetInt("coin");
             int newCoin = oldCoin + Constants.ADMOB_REWARDED_AD_WATCH;
@@ -180,6 +220,7 @@ namespace BEKStudio{
             //    profile.RefreshCoin();
 
             //MenuController.Instance.profileCoinText.text = newCoin.ToString();  
-        }
+        }*/
     }
 }
+

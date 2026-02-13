@@ -1,0 +1,4160 @@
+fileFormatVersion: 2
+guid: f18de3ab18cb9314cb5a9fbc74915d2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2987668479487635817
+    second: Undo-1_0
+  - first:
+      213: 1636250594951877490
+    second: Undo-1_1
+  - first:
+      213: 4749480376180286580
+    second: Undo-1_2
+  - first:
+      213: 4331717057203806260
+    second: Undo-1_3
+  - first:
+      213: 6090313047745924456
+    second: Undo-1_4
+  - first:
+      213: 208261029479761886
+    second: Undo-1_5
+  - first:
+      213: 490979528184338163
+    second: Undo-1_6
+  - first:
+      213: 2797148974539273621
+    second: Undo-1_7
+  - first:
+      213: -3421312585990067992
+    second: Undo-1_8
+  - first:
+      213: 4005420960574845970
+    second: Undo-1_9
+  - first:
+      213: 8734826054234433956
+    second: Undo-1_10
+  - first:
+      213: -934567602987995441
+    second: Undo-1_11
+  - first:
+      213: -6210376947806379717
+    second: Undo-1_12
+  - first:
+      213: -1132230833295506169
+    second: Undo-1_13
+  - first:
+      213: -67142186320350798
+    second: Undo-1_14
+  - first:
+      213: -1743156371290682697
+    second: Undo-1_15
+  - first:
+      213: -8226896444070363724
+    second: Undo-1_16
+  - first:
+      213: -1349530733759851735
+    second: Undo-1_17
+  - first:
+      213: 315501827455420618
+    second: Undo-1_18
+  - first:
+      213: -4499800711273457028
+    second: Undo-1_19
+  - first:
+      213: 4317466523411534523
+    second: Undo-1_20
+  - first:
+      213: -235701962181163755
+    second: Undo-1_21
+  - first:
+      213: -2305792941348527467
+    second: Undo-1_22
+  - first:
+      213: 3892236718453573293
+    second: Undo-1_23
+  - first:
+      213: 9055052508737073967
+    second: Undo-1_24
+  - first:
+      213: 1772141324975503306
+    second: Undo-1_25
+  - first:
+      213: -602695721561808713
+    second: Undo-1_26
+  - first:
+      213: -393317394902083857
+    second: Undo-1_27
+  - first:
+      213: 1595366222701899989
+    second: Undo-1_28
+  - first:
+      213: -651859162498900645
+    second: Undo-1_29
+  - first:
+      213: -1480703219062297952
+    second: Undo-1_30
+  - first:
+      213: -3510177700411700045
+    second: Undo-1_31
+  - first:
+      213: -1366659606983509872
+    second: Undo-1_32
+  - first:
+      213: -5505359638196880191
+    second: Undo-1_33
+  - first:
+      213: 8773414030149028263
+    second: Undo-1_34
+  - first:
+      213: -8788966425963296993
+    second: Undo-1_35
+  - first:
+      213: -1315102419694611715
+    second: Undo-1_36
+  - first:
+      213: -4629301539334530436
+    second: Undo-1_37
+  - first:
+      213: 4490405989096634696
+    second: Undo-1_38
+  - first:
+      213: -4374044543929571674
+    second: Undo-1_39
+  - first:
+      213: 7517440961737451142
+    second: Undo-1_40
+  - first:
+      213: 1370496632170546550
+    second: Undo-1_41
+  - first:
+      213: -8711909692699943109
+    second: Undo-1_42
+  - first:
+      213: 7541196278840613537
+    second: Undo-1_43
+  - first:
+      213: -1186869603837559462
+    second: Undo-1_44
+  - first:
+      213: -8091613257784539773
+    second: Undo-1_45
+  - first:
+      213: -3448790128220473325
+    second: Undo-1_46
+  - first:
+      213: 3055617179931944846
+    second: Undo-1_47
+  - first:
+      213: -2016434148787142128
+    second: Undo-1_48
+  - first:
+      213: -2416042872195324061
+    second: Undo-1_49
+  - first:
+      213: 6646463382308123050
+    second: Undo-1_50
+  - first:
+      213: -8931287889710711990
+    second: Undo-1_51
+  - first:
+      213: 3379980957296187412
+    second: Undo-1_52
+  - first:
+      213: 5587202922633890185
+    second: Undo-1_53
+  - first:
+      213: 9071299809043863152
+    second: Undo-1_54
+  - first:
+      213: 8042618491965530277
+    second: Undo-1_55
+  - first:
+      213: 903270881286332347
+    second: Undo-1_56
+  - first:
+      213: 2034839631608072448
+    second: Undo-1_57
+  - first:
+      213: 298440556650926421
+    second: Undo-1_58
+  - first:
+      213: 7346480500233139932
+    second: Undo-1_59
+  - first:
+      213: 2223207235567978610
+    second: Undo-1_60
+  - first:
+      213: 5094160808525408048
+    second: Undo-1_61
+  - first:
+      213: 1777460011865091040
+    second: Undo-1_62
+  - first:
+      213: 992598064339968878
+    second: Undo-1_63
+  - first:
+      213: 2251015148466786154
+    second: Undo-1_64
+  - first:
+      213: -1955320417024047702
+    second: Undo-1_65
+  - first:
+      213: 3353265164942240559
+    second: Undo-1_66
+  - first:
+      213: 377365433736043057
+    second: Undo-1_67
+  - first:
+      213: -7050670373734426476
+    second: Undo-1_68
+  - first:
+      213: 3307056264248858001
+    second: Undo-1_69
+  - first:
+      213: -6325160516418779340
+    second: Undo-1_70
+  - first:
+      213: -4892180899536255227
+    second: Undo-1_71
+  - first:
+      213: 2639283095465941230
+    second: Undo-1_72
+  - first:
+      213: -1518465544795020727
+    second: Undo-1_73
+  - first:
+      213: -963586499326164024
+    second: Undo-1_74
+  - first:
+      213: 2753605513285471592
+    second: Undo-1_75
+  - first:
+      213: -1165235225877918777
+    second: Undo-1_76
+  - first:
+      213: 6981699368321217377
+    second: Undo-1_77
+  - first:
+      213: 1096910335973453363
+    second: Undo-1_78
+  - first:
+      213: -5778892562197376856
+    second: Undo-1_79
+  - first:
+      213: -275243815614707762
+    second: Undo-1_80
+  - first:
+      213: 5493636687136575906
+    second: Undo-1_81
+  - first:
+      213: 4923686148323413474
+    second: Undo-1_82
+  - first:
+      213: 5925986443710643546
+    second: Undo-1_83
+  - first:
+      213: 8756677477338556673
+    second: Undo-1_84
+  - first:
+      213: 4244359899276118292
+    second: Undo-1_85
+  - first:
+      213: -3351518226340451978
+    second: Undo-1_86
+  - first:
+      213: 7529416805484263159
+    second: Undo-1_87
+  - first:
+      213: -3366243575661108484
+    second: Undo-1_88
+  - first:
+      213: 7466116851640920588
+    second: Undo-1_89
+  - first:
+      213: 7387035180751373420
+    second: Undo-1_90
+  - first:
+      213: 981761926449511922
+    second: Undo-1_91
+  - first:
+      213: 7279571245648889701
+    second: Undo-1_92
+  - first:
+      213: -696659152658033863
+    second: Undo-1_93
+  - first:
+      213: -5994273603862002553
+    second: Undo-1_94
+  - first:
+      213: 69583004585467284
+    second: Undo-1_95
+  - first:
+      213: -6494070361529295882
+    second: Undo-1_96
+  - first:
+      213: 5278166823103520580
+    second: Undo-1_97
+  - first:
+      213: -7599553090860035701
+    second: Undo-1_98
+  - first:
+      213: 6789552069225786545
+    second: Undo-1_99
+  - first:
+      213: -7962710433620120305
+    second: Undo-1_100
+  - first:
+      213: 6192886800174066013
+    second: Undo-1_101
+  - first:
+      213: -3278218657797741764
+    second: Undo-1_102
+  - first:
+      213: 6747616035313930728
+    second: Undo-1_103
+  - first:
+      213: 8847171822154336970
+    second: Undo-1_104
+  - first:
+      213: -7782211290396532716
+    second: Undo-1_105
+  - first:
+      213: 3255993968684885880
+    second: Undo-1_106
+  - first:
+      213: 4306208088959905879
+    second: Undo-1_107
+  - first:
+      213: -8543716058975952641
+    second: Undo-1_108
+  - first:
+      213: -2991207499008869220
+    second: Undo-1_109
+  - first:
+      213: -521481080251723059
+    second: Undo-1_110
+  - first:
+      213: -2709272083258899372
+    second: Undo-1_111
+  - first:
+      213: -7725218860175844059
+    second: Undo-1_112
+  - first:
+      213: -8204216836468587681
+    second: Undo-1_113
+  - first:
+      213: 1653227245647782065
+    second: Undo-1_114
+  - first:
+      213: 221200810109294583
+    second: Undo-1_115
+  - first:
+      213: -5415729389028480816
+    second: Undo-1_116
+  - first:
+      213: 5758555866337275958
+    second: Undo-1_117
+  - first:
+      213: -2069620353961843858
+    second: Undo-1_118
+  - first:
+      213: 4581862190623054517
+    second: Undo-1_119
+  - first:
+      213: -134733136125929920
+    second: Undo-1_120
+  - first:
+      213: -4579433969716093617
+    second: Undo-1_121
+  - first:
+      213: 7923779156817244641
+    second: Undo-1_122
+  - first:
+      213: 7846112693095469847
+    second: Undo-1_123
+  - first:
+      213: 109040279854057079
+    second: Undo-1_124
+  - first:
+      213: 3755303500380067640
+    second: Undo-1_125
+  - first:
+      213: -3944326300259953833
+    second: Undo-1_126
+  - first:
+      213: 7867126893491607089
+    second: Undo-1_127
+  - first:
+      213: -550445313602041630
+    second: Undo-1_128
+  - first:
+      213: 8359102377629814446
+    second: Undo-1_129
+  - first:
+      213: 1210338278637163769
+    second: Undo-1_130
+  - first:
+      213: -2834516909131482937
+    second: Undo-1_131
+  - first:
+      213: -4906499277486279183
+    second: Undo-1_132
+  - first:
+      213: -498282860562933684
+    second: Undo-1_133
+  - first:
+      213: -6244138764386638818
+    second: Undo-1_134
+  - first:
+      213: 5722791172531567100
+    second: Undo-1_135
+  - first:
+      213: 9187128775902032162
+    second: Undo-1_136
+  - first:
+      213: 4212685174567635286
+    second: Undo-1_137
+  - first:
+      213: 3768761160277454176
+    second: Undo-1_138
+  - first:
+      213: -4218559051197801899
+    second: Undo-1_139
+  - first:
+      213: 5945523264942932890
+    second: Undo-1_140
+  - first:
+      213: 3027446879596949027
+    second: Undo-1_141
+  - first:
+      213: 6480251106417363045
+    second: Undo-1_142
+  - first:
+      213: -1076379421728585650
+    second: Undo-1_143
+  - first:
+      213: 3812349390536348775
+    second: Undo-1_144
+  - first:
+      213: 4060804370556799102
+    second: Undo-1_145
+  - first:
+      213: 3663728315959792331
+    second: Undo-1_146
+  - first:
+      213: 2581445183536355886
+    second: Undo-1_147
+  - first:
+      213: 7887061890291218189
+    second: Undo-1_148
+  - first:
+      213: -6248387075281913193
+    second: Undo-1_149
+  - first:
+      213: -5063073572438704733
+    second: Undo-1_150
+  - first:
+      213: -4133893753499706273
+    second: Undo-1_151
+  - first:
+      213: -1491173626163414698
+    second: Undo-1_152
+  - first:
+      213: -9107106170150817846
+    second: Undo-1_153
+  - first:
+      213: 4810937730703877073
+    second: Undo-1_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undo-1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2175
+        height: 2142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961fd7a17a4567920800000000000000
+      internalID: 2987668479487635817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2113
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273d0a33f3125b610800000000000000
+      internalID: 1636250594951877490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_2
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2104
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4742ae10d3b89e140800000000000000
+      internalID: 4749480376180286580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2109
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430222e86b95d1c30800000000000000
+      internalID: 4331717057203806260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2119
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d82d5f273258450800000000000000
+      internalID: 6090313047745924456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2090
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7c2ba8d44e3e200800000000000000
+      internalID: 208261029479761886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_6
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2113
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f69a61974f40d600800000000000000
+      internalID: 490979528184338163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_7
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2125
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f2432c2871d620800000000000000
+      internalID: 2797148974539273621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2135
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82d76745e0580d0800000000000000
+      internalID: -3421312585990067992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_9
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2113
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214b7fa542d169730800000000000000
+      internalID: 4005420960574845970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_10
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2125
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a968796406583970800000000000000
+      internalID: 8734826054234433956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_11
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2137
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceef4577bfb703f0800000000000000
+      internalID: -934567602987995441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_12
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2131
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31e9b8e11f40d9a0800000000000000
+      internalID: -6210376947806379717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2105
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054da15e028940f0800000000000000
+      internalID: -1132230833295506169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_14
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 2126
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1beea8986711ff0800000000000000
+      internalID: -67142186320350798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 2130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba824514801fc7e0800000000000000
+      internalID: -1743156371290682697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_16
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2128
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdf247a54134dd80800000000000000
+      internalID: -8226896444070363724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_17
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92395c0a2f0854de0800000000000000
+      internalID: -1349530733759851735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_18
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 2128
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8877f8d33e06400800000000000000
+      internalID: 315501827455420618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_19
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2075
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ade74181f7d81c0800000000000000
+      internalID: -4499800711273457028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_20
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2137
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2d5999de8baeb30800000000000000
+      internalID: 4317466523411534523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_21
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2131
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515445f605e9abcf0800000000000000
+      internalID: -235701962181163755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_22
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5926155598d2000e0800000000000000
+      internalID: -2305792941348527467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_23
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da648296ca0040630800000000000000
+      internalID: 3892236718453573293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_24
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2378cde7420aad70800000000000000
+      internalID: 9055052508737073967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_25
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2126
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac774f65529e79810800000000000000
+      internalID: 1772141324975503306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_26
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2122
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b029a83f6bc2a7f0800000000000000
+      internalID: -602695721561808713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_27
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2104
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe611e8c9e7aa8af0800000000000000
+      internalID: -393317394902083857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2127
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0bdce7021e32610800000000000000
+      internalID: 1595366222701899989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_29
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 2122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d5baf9b8124f6f0800000000000000
+      internalID: -651859162498900645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_30
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2122
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaa302744c737be0800000000000000
+      internalID: -1480703219062297952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_31
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2122
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc867caaf7594fc0800000000000000
+      internalID: -3510177700411700045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_32
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2112
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0987fdc0456a80de0800000000000000
+      internalID: -1366659606983509872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_33
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 2122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7084e3980993b0800000000000000
+      internalID: -5505359638196880191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_34
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2117
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9067ea39d61c970800000000000000
+      internalID: 8773414030149028263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_35
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2111
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f178f9df991570680800000000000000
+      internalID: -8788966425963296993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_36
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df298d62151dfbde0800000000000000
+      internalID: -1315102419694611715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_37
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2103
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7adbcde6ca61cfb0800000000000000
+      internalID: -4629301539334530436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_38
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2109
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8493465b470215e30800000000000000
+      internalID: 4490405989096634696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_39
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2108
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6a75779a54c43c0800000000000000
+      internalID: -4374044543929571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_40
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e450c9b0535860800000000000000
+      internalID: 7517440961737451142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_41
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2108
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675056efc6bf40310800000000000000
+      internalID: 1370496632170546550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_42
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f565bca44191780800000000000000
+      internalID: -8711909692699943109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_43
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 2108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aadac58f06b7a860800000000000000
+      internalID: 7541196278840613537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_44
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2107
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dbd843264678fe0800000000000000
+      internalID: -1186869603837559462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2090
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38549edfc90d4bf80800000000000000
+      internalID: -8091613257784539773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_46
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3187b8e96af6320d0800000000000000
+      internalID: -3448790128220473325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_47
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ac63c2abb76a20800000000000000
+      internalID: 3055617179931944846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_48
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2102
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012439043df2404e0800000000000000
+      internalID: -2016434148787142128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_49
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2097
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367eea8fecd787ed0800000000000000
+      internalID: -2416042872195324061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_50
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2107
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1fd135b3bfc3c50800000000000000
+      internalID: 6646463382308123050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_51
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 2102
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b7b0bfbf0bd0480800000000000000
+      internalID: -8931287889710711990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_52
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4185933d5ca18ee20800000000000000
+      internalID: 3379980957296187412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_53
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 2105
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9890e93b47bb98d40800000000000000
+      internalID: 5587202922633890185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_54
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2098
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d0215d1bb3ed70800000000000000
+      internalID: 9071299809043863152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_55
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2107
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0e79528ee1d9f60800000000000000
+      internalID: 8042618491965530277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_56
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf960fa410198c00800000000000000
+      internalID: 903270881286332347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_57
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c2e82dd33d3c10800000000000000
+      internalID: 2034839631608072448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_58
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2106
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519fb5ea16442400800000000000000
+      internalID: 298440556650926421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_59
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2092
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fab57711f3f560800000000000000
+      internalID: 7346480500233139932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_60
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2098
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2788b12a33b6ade10800000000000000
+      internalID: 2223207235567978610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_61
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 2108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037afdce34812b640800000000000000
+      internalID: 5094160808525408048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_62
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2104
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb2ea1a67ecaa810800000000000000
+      internalID: 1777460011865091040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_63
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6369b53eaa66cd00800000000000000
+      internalID: 992598064339968878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_64
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc264e9563d3f10800000000000000
+      internalID: 2251015148466786154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_65
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2093
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa58631c07e4dd4e0800000000000000
+      internalID: -1955320417024047702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_66
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2101
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2be212b6e0398e20800000000000000
+      internalID: 3353265164942240559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2092
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a1954dcdbac3500800000000000000
+      internalID: 377365433736043057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_68
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4985031b6acf62e90800000000000000
+      internalID: -7050670373734426476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_69
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19598ca962605ed20800000000000000
+      internalID: 3307056264248858001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_70
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2091
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437488fb5048838a0800000000000000
+      internalID: -6325160516418779340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_71
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c03a446b7b1cb0800000000000000
+      internalID: -4892180899536255227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_72
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2093
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8d0f6edfd90a420800000000000000
+      internalID: 2639283095465941230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_73
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a2d6d1a35deae0800000000000000
+      internalID: -1518465544795020727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_74
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2074
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34d452f27a0a2f0800000000000000
+      internalID: -963586499326164024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_75
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2095
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d00f600a5c63620800000000000000
+      internalID: 2753605513285471592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_76
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2089
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb46c95cb044dfe0800000000000000
+      internalID: -1165235225877918777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_77
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2089
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163fa59b59af3e060800000000000000
+      internalID: 6981699368321217377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_78
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2096
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee62e8322093f00800000000000000
+      internalID: 1096910335973453363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_79
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2090
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0141325df3dcfa0800000000000000
+      internalID: -5778892562197376856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_80
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 2098
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec789af35332e2cf0800000000000000
+      internalID: -275243815614707762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_81
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2090
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a154ddd5715d3c40800000000000000
+      internalID: 5493636687136575906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_82
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2099
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed04501772745440800000000000000
+      internalID: 4923686148323413474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_83
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2096
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d3729f5455d3250800000000000000
+      internalID: 5925986443710643546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_84
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 2098
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109ad6155c7f58970800000000000000
+      internalID: 8756677477338556673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_85
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 2096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419044f37def6ea30800000000000000
+      internalID: 4244359899276118292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_86
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2098
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679eab42ee30d71d0800000000000000
+      internalID: -3351518226340451978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_87
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 2098
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6feb821bcdd7860800000000000000
+      internalID: 7529416805484263159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_88
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2095
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf267459d43b841d0800000000000000
+      internalID: -3366243575661108484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_89
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2099
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a6d9928b9fc9760800000000000000
+      internalID: 7466116851640920588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_90
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2099
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64cff3db55048660800000000000000
+      internalID: 7387035180751373420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_91
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2096
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdb600454bef9d00800000000000000
+      internalID: 981761926449511922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1888
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567cc06aa7b360560800000000000000
+      internalID: 7279571245648889701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_93
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1889
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9331b441138f456f0800000000000000
+      internalID: -696659152658033863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_94
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840e439aef00dca0800000000000000
+      internalID: -5994273603862002553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_95
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1867
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d98bebf5537f000800000000000000
+      internalID: 69583004585467284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1852
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb57aac96d60e5a0800000000000000
+      internalID: -6494070361529295882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_97
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f565cb2c0df3940800000000000000
+      internalID: 5278166823103520580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_98
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1819
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d09f5ab6f88690800000000000000
+      internalID: -7599553090860035701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_99
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1795
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca83662a5593e50800000000000000
+      internalID: 6789552069225786545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1742
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da6c28c05ce7190800000000000000
+      internalID: -7962710433620120305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_101
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1732
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59a492cbbd81f550800000000000000
+      internalID: 6192886800174066013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_102
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1729
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3368eddf7d6182d0800000000000000
+      internalID: -3278218657797741764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_103
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1732
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1dd91a80954ad50800000000000000
+      internalID: 6747616035313930728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1678
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaca5ed5e777ca70800000000000000
+      internalID: 8847171822154336970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41061e43018000490800000000000000
+      internalID: -7782211290396532716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_106
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877e646734d9f2d20800000000000000
+      internalID: 3255993968684885880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1633
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507e5f0179b2cb30800000000000000
+      internalID: 4306208088959905879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1587
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff020fac28f9e6980800000000000000
+      internalID: -8543716058975952641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c7714b0a81d76d0800000000000000
+      internalID: -2991207499008869220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1567
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2528e68b353c8f0800000000000000
+      internalID: -521481080251723059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1532
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548875056bb66ad0800000000000000
+      internalID: -2709272083258899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_112
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1525
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d121b60628ac490800000000000000
+      internalID: -7725218860175844059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_113
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1526
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53c20a4144c42e80800000000000000
+      internalID: -8204216836468587681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_114
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b065d5bb6171f610800000000000000
+      internalID: 1653227245647782065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_115
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7d79ef6fcd11300800000000000000
+      internalID: 221200810109294583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_116
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1460
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8605f70d677d4b0800000000000000
+      internalID: -5415729389028480816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_117
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1435
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307640ec008aef40800000000000000
+      internalID: 5758555866337275958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_118
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1417
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63af2ed04b3743e0800000000000000
+      internalID: -2069620353961843858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_119
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1420
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba51e9f26b069f30800000000000000
+      internalID: 4581862190623054517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_120
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1381
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465db13de4512ef0800000000000000
+      internalID: -134733136125929920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_121
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1382
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d17b241159270c0800000000000000
+      internalID: -4579433969716093617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_122
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1381
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17cb0492be6fd60800000000000000
+      internalID: 7923779156817244641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_123
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1334
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71393a38cedf2ec60800000000000000
+      internalID: 7846112693095469847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_124
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77609ea8e83638100800000000000000
+      internalID: 109040279854057079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_125
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1325
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375feb13a48d1430800000000000000
+      internalID: 3755303500380067640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75356cab020f249c0800000000000000
+      internalID: -3944326300259953833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_127
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1310
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1365d715a36ad2d60800000000000000
+      internalID: 7867126893491607089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_128
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1255
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8c87657ec6c58f0800000000000000
+      internalID: -550445313602041630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_129
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1237
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae8fb3f25f710470800000000000000
+      internalID: 8359102377629814446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_130
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d934704cfbc010800000000000000
+      internalID: 1210338278637163769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_131
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1226
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8316993e5c9a8d0800000000000000
+      internalID: -2834516909131482937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_132
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1197
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f538b227ec98ebb0800000000000000
+      internalID: -4906499277486279183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_133
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1187
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c481b7ad06eb519f0800000000000000
+      internalID: -498282860562933684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_134
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 1165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ec7c60ec5859a0800000000000000
+      internalID: -6244138764386638818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1132
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf93c7230407b6f40800000000000000
+      internalID: 5722791172531567100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_136
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221f86932fc3f7f70800000000000000
+      internalID: 9187128775902032162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_137
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65988a4b8d6767a30800000000000000
+      internalID: 4212685174567635286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_138
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1088
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d60a9be445d4430800000000000000
+      internalID: 3768761160277454176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_139
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 1087
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9851d4eaa475c0800000000000000
+      internalID: -4218559051197801899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_140
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1087
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a938eb2a8edb28250800000000000000
+      internalID: 5945523264942932890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_141
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1076
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eadba95e6a30a20800000000000000
+      internalID: 3027446879596949027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_142
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1043
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c6552c0a7ee950800000000000000
+      internalID: 6480251106417363045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_143
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1021
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48c35c6e9eef01f0800000000000000
+      internalID: -1076379421728585650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_144
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 956
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764989e629f28e430800000000000000
+      internalID: 3812349390536348775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_145
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 946
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7844695f00ea5830800000000000000
+      internalID: 4060804370556799102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_146
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 946
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d25afd7d28d230800000000000000
+      internalID: 3663728315959792331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_147
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 899
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ad3d3a7b223d320800000000000000
+      internalID: 2581445183536355886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 884
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0734547009747d60800000000000000
+      internalID: 7887061890291218189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_149
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 862
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79afda67f054949a0800000000000000
+      internalID: -6248387075281913193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 844
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad7f1349695cb9b0800000000000000
+      internalID: -5063073572438704733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_151
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 844
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9173988571a6c0800000000000000
+      internalID: -4133893753499706273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_152
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 826
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6593912dc794e4be0800000000000000
+      internalID: -1491173626163414698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_153
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf6464903f0d9180800000000000000
+      internalID: -9107106170150817846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo-1_154
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3e02b6062e3c240800000000000000
+      internalID: 4810937730703877073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Undo-1_0: 2987668479487635817
+      Undo-1_1: 1636250594951877490
+      Undo-1_10: 8734826054234433956
+      Undo-1_100: -7962710433620120305
+      Undo-1_101: 6192886800174066013
+      Undo-1_102: -3278218657797741764
+      Undo-1_103: 6747616035313930728
+      Undo-1_104: 8847171822154336970
+      Undo-1_105: -7782211290396532716
+      Undo-1_106: 3255993968684885880
+      Undo-1_107: 4306208088959905879
+      Undo-1_108: -8543716058975952641
+      Undo-1_109: -2991207499008869220
+      Undo-1_11: -934567602987995441
+      Undo-1_110: -521481080251723059
+      Undo-1_111: -2709272083258899372
+      Undo-1_112: -7725218860175844059
+      Undo-1_113: -8204216836468587681
+      Undo-1_114: 1653227245647782065
+      Undo-1_115: 221200810109294583
+      Undo-1_116: -5415729389028480816
+      Undo-1_117: 5758555866337275958
+      Undo-1_118: -2069620353961843858
+      Undo-1_119: 4581862190623054517
+      Undo-1_12: -6210376947806379717
+      Undo-1_120: -134733136125929920
+      Undo-1_121: -4579433969716093617
+      Undo-1_122: 7923779156817244641
+      Undo-1_123: 7846112693095469847
+      Undo-1_124: 109040279854057079
+      Undo-1_125: 3755303500380067640
+      Undo-1_126: -3944326300259953833
+      Undo-1_127: 7867126893491607089
+      Undo-1_128: -550445313602041630
+      Undo-1_129: 8359102377629814446
+      Undo-1_13: -1132230833295506169
+      Undo-1_130: 1210338278637163769
+      Undo-1_131: -2834516909131482937
+      Undo-1_132: -4906499277486279183
+      Undo-1_133: -498282860562933684
+      Undo-1_134: -6244138764386638818
+      Undo-1_135: 5722791172531567100
+      Undo-1_136: 9187128775902032162
+      Undo-1_137: 4212685174567635286
+      Undo-1_138: 3768761160277454176
+      Undo-1_139: -4218559051197801899
+      Undo-1_14: -67142186320350798
+      Undo-1_140: 5945523264942932890
+      Undo-1_141: 3027446879596949027
+      Undo-1_142: 6480251106417363045
+      Undo-1_143: -1076379421728585650
+      Undo-1_144: 3812349390536348775
+      Undo-1_145: 4060804370556799102
+      Undo-1_146: 3663728315959792331
+      Undo-1_147: 2581445183536355886
+      Undo-1_148: 7887061890291218189
+      Undo-1_149: -6248387075281913193
+      Undo-1_15: -1743156371290682697
+      Undo-1_150: -5063073572438704733
+      Undo-1_151: -4133893753499706273
+      Undo-1_152: -1491173626163414698
+      Undo-1_153: -9107106170150817846
+      Undo-1_154: 4810937730703877073
+      Undo-1_16: -8226896444070363724
+      Undo-1_17: -1349530733759851735
+      Undo-1_18: 315501827455420618
+      Undo-1_19: -4499800711273457028
+      Undo-1_2: 4749480376180286580
+      Undo-1_20: 4317466523411534523
+      Undo-1_21: -235701962181163755
+      Undo-1_22: -2305792941348527467
+      Undo-1_23: 3892236718453573293
+      Undo-1_24: 9055052508737073967
+      Undo-1_25: 1772141324975503306
+      Undo-1_26: -602695721561808713
+      Undo-1_27: -393317394902083857
+      Undo-1_28: 1595366222701899989
+      Undo-1_29: -651859162498900645
+      Undo-1_3: 4331717057203806260
+      Undo-1_30: -1480703219062297952
+      Undo-1_31: -3510177700411700045
+      Undo-1_32: -1366659606983509872
+      Undo-1_33: -5505359638196880191
+      Undo-1_34: 8773414030149028263
+      Undo-1_35: -8788966425963296993
+      Undo-1_36: -1315102419694611715
+      Undo-1_37: -4629301539334530436
+      Undo-1_38: 4490405989096634696
+      Undo-1_39: -4374044543929571674
+      Undo-1_4: 6090313047745924456
+      Undo-1_40: 7517440961737451142
+      Undo-1_41: 1370496632170546550
+      Undo-1_42: -8711909692699943109
+      Undo-1_43: 7541196278840613537
+      Undo-1_44: -1186869603837559462
+      Undo-1_45: -8091613257784539773
+      Undo-1_46: -3448790128220473325
+      Undo-1_47: 3055617179931944846
+      Undo-1_48: -2016434148787142128
+      Undo-1_49: -2416042872195324061
+      Undo-1_5: 208261029479761886
+      Undo-1_50: 6646463382308123050
+      Undo-1_51: -8931287889710711990
+      Undo-1_52: 3379980957296187412
+      Undo-1_53: 5587202922633890185
+      Undo-1_54: 9071299809043863152
+      Undo-1_55: 8042618491965530277
+      Undo-1_56: 903270881286332347
+      Undo-1_57: 2034839631608072448
+      Undo-1_58: 298440556650926421
+      Undo-1_59: 7346480500233139932
+      Undo-1_6: 490979528184338163
+      Undo-1_60: 2223207235567978610
+      Undo-1_61: 5094160808525408048
+      Undo-1_62: 1777460011865091040
+      Undo-1_63: 992598064339968878
+      Undo-1_64: 2251015148466786154
+      Undo-1_65: -1955320417024047702
+      Undo-1_66: 3353265164942240559
+      Undo-1_67: 377365433736043057
+      Undo-1_68: -7050670373734426476
+      Undo-1_69: 3307056264248858001
+      Undo-1_7: 2797148974539273621
+      Undo-1_70: -6325160516418779340
+      Undo-1_71: -4892180899536255227
+      Undo-1_72: 2639283095465941230
+      Undo-1_73: -1518465544795020727
+      Undo-1_74: -963586499326164024
+      Undo-1_75: 2753605513285471592
+      Undo-1_76: -1165235225877918777
+      Undo-1_77: 6981699368321217377
+      Undo-1_78: 1096910335973453363
+      Undo-1_79: -5778892562197376856
+      Undo-1_8: -3421312585990067992
+      Undo-1_80: -275243815614707762
+      Undo-1_81: 5493636687136575906
+      Undo-1_82: 4923686148323413474
+      Undo-1_83: 5925986443710643546
+      Undo-1_84: 8756677477338556673
+      Undo-1_85: 4244359899276118292
+      Undo-1_86: -3351518226340451978
+      Undo-1_87: 7529416805484263159
+      Undo-1_88: -3366243575661108484
+      Undo-1_89: 7466116851640920588
+      Undo-1_9: 4005420960574845970
+      Undo-1_90: 7387035180751373420
+      Undo-1_91: 981761926449511922
+      Undo-1_92: 7279571245648889701
+      Undo-1_93: -696659152658033863
+      Undo-1_94: -5994273603862002553
+      Undo-1_95: 69583004585467284
+      Undo-1_96: -6494070361529295882
+      Undo-1_97: 5278166823103520580
+      Undo-1_98: -7599553090860035701
+      Undo-1_99: 6789552069225786545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

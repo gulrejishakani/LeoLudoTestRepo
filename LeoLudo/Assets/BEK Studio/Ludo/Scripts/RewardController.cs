@@ -51,19 +51,19 @@ public class RewardController : MonoBehaviour
 
         if (CanClaim(DAILY_KEY, DAILY_CD))
         {
-            totalCoins += 5;
+            totalCoins += 60;
             SaveClaimTime(DAILY_KEY);
         }
 
         if (CanClaim(WEEKLY_KEY, WEEKLY_CD))
         {
-            totalCoins += 20;
+            totalCoins += 100;
             SaveClaimTime(WEEKLY_KEY);
         }
 
         if (CanClaim(SPECIAL_KEY, SPECIAL_CD))
         {
-            totalCoins += 50;
+            totalCoins += 140;
             SaveClaimTime(SPECIAL_KEY);
         }
 

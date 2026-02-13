@@ -1,0 +1,4420 @@
+fileFormatVersion: 2
+guid: fa873c73ce825854da3cb367abc802c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4871172465923594664
+    second: Undo_ads_0
+  - first:
+      213: -5727669224942061936
+    second: Undo_ads_1
+  - first:
+      213: -291600447122424749
+    second: Undo_ads_2
+  - first:
+      213: 5450476956829955992
+    second: Undo_ads_3
+  - first:
+      213: 2116698554390025021
+    second: Undo_ads_4
+  - first:
+      213: 4934863464643661743
+    second: Undo_ads_5
+  - first:
+      213: 9148810207192988707
+    second: Undo_ads_6
+  - first:
+      213: 5315190121225035897
+    second: Undo_ads_7
+  - first:
+      213: -5884520481936315847
+    second: Undo_ads_8
+  - first:
+      213: -7995972289458808559
+    second: Undo_ads_9
+  - first:
+      213: -766538010334330298
+    second: Undo_ads_10
+  - first:
+      213: 1058110700725795898
+    second: Undo_ads_11
+  - first:
+      213: 6337971062035383916
+    second: Undo_ads_12
+  - first:
+      213: 4886007548577943064
+    second: Undo_ads_13
+  - first:
+      213: 4631753494519087847
+    second: Undo_ads_14
+  - first:
+      213: 8951234207470172843
+    second: Undo_ads_15
+  - first:
+      213: 8973581923034889425
+    second: Undo_ads_16
+  - first:
+      213: 5132497424011393619
+    second: Undo_ads_17
+  - first:
+      213: -3817848432750464434
+    second: Undo_ads_18
+  - first:
+      213: -1329565250673759549
+    second: Undo_ads_19
+  - first:
+      213: 3786769650575962065
+    second: Undo_ads_20
+  - first:
+      213: -6411103104968339952
+    second: Undo_ads_21
+  - first:
+      213: -7421814833017673586
+    second: Undo_ads_22
+  - first:
+      213: -1583379570271420452
+    second: Undo_ads_23
+  - first:
+      213: 4208909447210169101
+    second: Undo_ads_24
+  - first:
+      213: 1400279861418584466
+    second: Undo_ads_25
+  - first:
+      213: -5235333028206483377
+    second: Undo_ads_26
+  - first:
+      213: -5119863047502172714
+    second: Undo_ads_27
+  - first:
+      213: 2141403927810741071
+    second: Undo_ads_28
+  - first:
+      213: 2845266756553330706
+    second: Undo_ads_29
+  - first:
+      213: -88268773087770853
+    second: Undo_ads_30
+  - first:
+      213: 5749267404822553541
+    second: Undo_ads_31
+  - first:
+      213: 3822170469778035281
+    second: Undo_ads_32
+  - first:
+      213: 3795036114808132798
+    second: Undo_ads_33
+  - first:
+      213: 5141960796249646783
+    second: Undo_ads_34
+  - first:
+      213: 4363505742477817355
+    second: Undo_ads_35
+  - first:
+      213: 4656999719660566829
+    second: Undo_ads_36
+  - first:
+      213: 1959377249761533649
+    second: Undo_ads_37
+  - first:
+      213: 5755911469376493390
+    second: Undo_ads_38
+  - first:
+      213: 5911824653129746225
+    second: Undo_ads_39
+  - first:
+      213: 1611977378016094137
+    second: Undo_ads_40
+  - first:
+      213: 411223997449233692
+    second: Undo_ads_41
+  - first:
+      213: -1128994389203617219
+    second: Undo_ads_42
+  - first:
+      213: -7235300154097982363
+    second: Undo_ads_43
+  - first:
+      213: -7621020469110673330
+    second: Undo_ads_44
+  - first:
+      213: 8292179820492290251
+    second: Undo_ads_45
+  - first:
+      213: -2421913011484115353
+    second: Undo_ads_46
+  - first:
+      213: 4271229863403100553
+    second: Undo_ads_47
+  - first:
+      213: -8097693946518857856
+    second: Undo_ads_48
+  - first:
+      213: 4529076109708451187
+    second: Undo_ads_49
+  - first:
+      213: -3230404749134270349
+    second: Undo_ads_50
+  - first:
+      213: -7575274438102294712
+    second: Undo_ads_51
+  - first:
+      213: -5354426107400395732
+    second: Undo_ads_52
+  - first:
+      213: -5491413123701031067
+    second: Undo_ads_53
+  - first:
+      213: -367354900892098232
+    second: Undo_ads_54
+  - first:
+      213: -5012038674605574711
+    second: Undo_ads_55
+  - first:
+      213: -4275287134300574605
+    second: Undo_ads_56
+  - first:
+      213: -5433552257376788500
+    second: Undo_ads_57
+  - first:
+      213: -8013000024164349262
+    second: Undo_ads_58
+  - first:
+      213: 5595388053480599522
+    second: Undo_ads_59
+  - first:
+      213: -439165212281433679
+    second: Undo_ads_60
+  - first:
+      213: 3674532260565728565
+    second: Undo_ads_61
+  - first:
+      213: -420735862891312144
+    second: Undo_ads_62
+  - first:
+      213: -3491342971408762823
+    second: Undo_ads_63
+  - first:
+      213: -1783825837543345909
+    second: Undo_ads_64
+  - first:
+      213: -5221819977685243594
+    second: Undo_ads_65
+  - first:
+      213: 3421081546339859730
+    second: Undo_ads_66
+  - first:
+      213: -3339217882980764882
+    second: Undo_ads_67
+  - first:
+      213: 8536135110064613858
+    second: Undo_ads_68
+  - first:
+      213: 415727106323726936
+    second: Undo_ads_69
+  - first:
+      213: -762333070782963305
+    second: Undo_ads_70
+  - first:
+      213: 7546931136167791785
+    second: Undo_ads_71
+  - first:
+      213: 4328210476205765865
+    second: Undo_ads_72
+  - first:
+      213: 3064578532034357229
+    second: Undo_ads_73
+  - first:
+      213: 1544833388133284361
+    second: Undo_ads_74
+  - first:
+      213: -3811148562389345185
+    second: Undo_ads_75
+  - first:
+      213: -2780598361622460680
+    second: Undo_ads_76
+  - first:
+      213: -5467823162473488247
+    second: Undo_ads_77
+  - first:
+      213: -5973972306013992309
+    second: Undo_ads_78
+  - first:
+      213: 7559331916051645617
+    second: Undo_ads_79
+  - first:
+      213: 2139420482641865640
+    second: Undo_ads_80
+  - first:
+      213: 3096678371286793782
+    second: Undo_ads_81
+  - first:
+      213: 9147558298709240617
+    second: Undo_ads_82
+  - first:
+      213: -6586015302547785903
+    second: Undo_ads_83
+  - first:
+      213: -407363960335342238
+    second: Undo_ads_84
+  - first:
+      213: -5695958837548736639
+    second: Undo_ads_85
+  - first:
+      213: -4448952295043826950
+    second: Undo_ads_86
+  - first:
+      213: -5366102286799180614
+    second: Undo_ads_87
+  - first:
+      213: -8252135563502042829
+    second: Undo_ads_88
+  - first:
+      213: 6487056100646516436
+    second: Undo_ads_89
+  - first:
+      213: 4858388957715647465
+    second: Undo_ads_90
+  - first:
+      213: 4036749413844472685
+    second: Undo_ads_91
+  - first:
+      213: -831492689906365878
+    second: Undo_ads_92
+  - first:
+      213: 518108312729626215
+    second: Undo_ads_93
+  - first:
+      213: -3996213594789363280
+    second: Undo_ads_94
+  - first:
+      213: 1028018847278736410
+    second: Undo_ads_95
+  - first:
+      213: -4606907869267080530
+    second: Undo_ads_96
+  - first:
+      213: -1801754727767488677
+    second: Undo_ads_97
+  - first:
+      213: -6640794411921769897
+    second: Undo_ads_98
+  - first:
+      213: 3894411719230856217
+    second: Undo_ads_99
+  - first:
+      213: -1303216930273141307
+    second: Undo_ads_100
+  - first:
+      213: -6560797956730698430
+    second: Undo_ads_101
+  - first:
+      213: 1674755197817399453
+    second: Undo_ads_102
+  - first:
+      213: -6240491669559591365
+    second: Undo_ads_103
+  - first:
+      213: 7381354257313689284
+    second: Undo_ads_104
+  - first:
+      213: -1248413721080539882
+    second: Undo_ads_105
+  - first:
+      213: 4050699380065608493
+    second: Undo_ads_106
+  - first:
+      213: 4793955507057635622
+    second: Undo_ads_107
+  - first:
+      213: 5480922547833115918
+    second: Undo_ads_108
+  - first:
+      213: -3499528037767810728
+    second: Undo_ads_109
+  - first:
+      213: -8227957613616850860
+    second: Undo_ads_110
+  - first:
+      213: -1763747983526865308
+    second: Undo_ads_111
+  - first:
+      213: 6332852055819365319
+    second: Undo_ads_112
+  - first:
+      213: -8870951630551567615
+    second: Undo_ads_113
+  - first:
+      213: -1188120941333187492
+    second: Undo_ads_114
+  - first:
+      213: 649394548881741985
+    second: Undo_ads_115
+  - first:
+      213: 8380125323208842623
+    second: Undo_ads_116
+  - first:
+      213: -6381479100576680672
+    second: Undo_ads_117
+  - first:
+      213: -5562805588155615802
+    second: Undo_ads_118
+  - first:
+      213: -2521826271829196903
+    second: Undo_ads_119
+  - first:
+      213: -2677353533410340029
+    second: Undo_ads_120
+  - first:
+      213: 2769192240186020142
+    second: Undo_ads_121
+  - first:
+      213: 5421890251475021601
+    second: Undo_ads_122
+  - first:
+      213: -8596290176174933347
+    second: Undo_ads_123
+  - first:
+      213: -4998286212235241554
+    second: Undo_ads_124
+  - first:
+      213: -5258139906393783901
+    second: Undo_ads_125
+  - first:
+      213: 3753415455142073703
+    second: Undo_ads_126
+  - first:
+      213: 6539373869358844813
+    second: Undo_ads_127
+  - first:
+      213: -187868767722190934
+    second: Undo_ads_128
+  - first:
+      213: -3486033309015840205
+    second: Undo_ads_129
+  - first:
+      213: -7936018729245559947
+    second: Undo_ads_130
+  - first:
+      213: -7055493676435889409
+    second: Undo_ads_131
+  - first:
+      213: 356123516429063231
+    second: Undo_ads_132
+  - first:
+      213: -5736409896690141157
+    second: Undo_ads_133
+  - first:
+      213: 9029927210430457867
+    second: Undo_ads_134
+  - first:
+      213: -3406958333582304006
+    second: Undo_ads_135
+  - first:
+      213: -1758514799245685474
+    second: Undo_ads_136
+  - first:
+      213: -8289725358974954346
+    second: Undo_ads_137
+  - first:
+      213: -3793793568641571619
+    second: Undo_ads_138
+  - first:
+      213: 2149857330113082242
+    second: Undo_ads_139
+  - first:
+      213: -6239919698811728353
+    second: Undo_ads_140
+  - first:
+      213: -8669335711271342690
+    second: Undo_ads_141
+  - first:
+      213: 1215033779218492128
+    second: Undo_ads_142
+  - first:
+      213: -2701328202248803881
+    second: Undo_ads_143
+  - first:
+      213: 8043337643868617726
+    second: Undo_ads_144
+  - first:
+      213: -6992350890996418171
+    second: Undo_ads_145
+  - first:
+      213: 6520477565028704982
+    second: Undo_ads_146
+  - first:
+      213: 6137396178394757044
+    second: Undo_ads_147
+  - first:
+      213: 3506251779393376294
+    second: Undo_ads_148
+  - first:
+      213: 3772539049148163455
+    second: Undo_ads_149
+  - first:
+      213: -1339116058998345249
+    second: Undo_ads_150
+  - first:
+      213: 115230706831551330
+    second: Undo_ads_151
+  - first:
+      213: -722325924443173432
+    second: Undo_ads_152
+  - first:
+      213: 7962407787633385729
+    second: Undo_ads_153
+  - first:
+      213: -5905582600555756572
+    second: Undo_ads_154
+  - first:
+      213: 5248409667138920654
+    second: Undo_ads_155
+  - first:
+      213: -5293581010923106553
+    second: Undo_ads_156
+  - first:
+      213: 4694288023828877002
+    second: Undo_ads_157
+  - first:
+      213: 8388302275730716323
+    second: Undo_ads_158
+  - first:
+      213: 732599432998198884
+    second: Undo_ads_159
+  - first:
+      213: -9030361774330033485
+    second: Undo_ads_160
+  - first:
+      213: -2255450878732668173
+    second: Undo_ads_161
+  - first:
+      213: -7950054534586350520
+    second: Undo_ads_162
+  - first:
+      213: 498017601677752696
+    second: Undo_ads_163
+  - first:
+      213: 3118837741463996601
+    second: Undo_ads_164
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Undo_ads_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2370
+        height: 2368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e5f8637e166cb0800000000000000
+      internalID: -4871172465923594664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2321
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0963468bf2b3380b0800000000000000
+      internalID: -5727669224942061936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2332
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c3ce430f604fbf0800000000000000
+      internalID: -291600447122424749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8973d441aebf3ab40800000000000000
+      internalID: 5450476956829955992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2362
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d331007de16006d10800000000000000
+      internalID: 2116698554390025021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_5
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2338
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf8321dc282c7440800000000000000
+      internalID: 4934863464643661743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2338
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb435396a17fe70800000000000000
+      internalID: 9148810207192988707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a841114953c940800000000000000
+      internalID: 5315190121225035897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_8
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2362
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aeca89ccbf55ea0800000000000000
+      internalID: -5884520481936315847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2362
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119d0f43199980190800000000000000
+      internalID: -7995972289458808559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_10
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642003badb5bc55f0800000000000000
+      internalID: -766538010334330298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_11
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2362
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cfcc1831a2fae00800000000000000
+      internalID: 1058110700725795898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_12
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2362
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c660355d91ff4f750800000000000000
+      internalID: 6337971062035383916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_13
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2338
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e8dde6af59ec340800000000000000
+      internalID: 4886007548577943064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_14
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2363
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20cff534b474040800000000000000
+      internalID: 4631753494519087847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_15
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2339
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab595061c293c70800000000000000
+      internalID: 8951234207470172843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_16
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2362
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7c550731988c70800000000000000
+      internalID: 8973581923034889425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_17
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 2330
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7ec8c63b4a3740800000000000000
+      internalID: 5132497424011393619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_18
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 2347
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4270a70417440bc0800000000000000
+      internalID: -3817848432750464434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_19
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca23e7e27f6c8de0800000000000000
+      internalID: -1329565250673759549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_20
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2343
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df6fcc1fee4d8430800000000000000
+      internalID: 3786769650575962065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2328
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e45f981bf2707a0800000000000000
+      internalID: -6411103104968339952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_22
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88a1495bba600990800000000000000
+      internalID: -7421814833017673586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_23
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7c518ba4b60ae0800000000000000
+      internalID: -1583379570271420452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_24
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2342
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d037fbca7dc096a30800000000000000
+      internalID: 4208909447210169101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_25
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2327
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ecfd6d1bce6310800000000000000
+      internalID: 1400279861418584466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_26
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 2341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e1ec495c5857b0800000000000000
+      internalID: -5235333028206483377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_27
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddebfa3fa792f8b0800000000000000
+      internalID: -5119863047502172714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_28
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 2322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4319c5d68bc7bd10800000000000000
+      internalID: 2141403927810741071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_29
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 2339
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210d69b4a0b6c7720800000000000000
+      internalID: 2845266756553330706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_30
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2338
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17085fb40866cef0800000000000000
+      internalID: -88268773087770853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_31
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2341
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c32e276e3089cf40800000000000000
+      internalID: 5749267404822553541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_32
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1529b12aac31b0530800000000000000
+      internalID: 3822170469778035281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_33
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 2341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4daec4d3daaa430800000000000000
+      internalID: 3795036114808132798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_34
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 2338
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e175d91aeb5740800000000000000
+      internalID: 5141960796249646783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_35
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2327
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0674cb9a594e8c30800000000000000
+      internalID: 4363505742477817355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2312
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293679329cf0a040800000000000000
+      internalID: 4656999719660566829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2324
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de94093a3b113b10800000000000000
+      internalID: 1959377249761533649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2319
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4758ca3cfa11ef40800000000000000
+      internalID: 5755911469376493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_39
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137023823350b0250800000000000000
+      internalID: 5911824653129746225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_40
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b76d9a72e4ee5610800000000000000
+      internalID: 1611977378016094137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_41
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2327
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15e3130c06f4b500800000000000000
+      internalID: 411223997449233692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_42
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2289
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afb1ea5910550f0800000000000000
+      internalID: -1128994389203617219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_43
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2321
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56429a718dc079b90800000000000000
+      internalID: -7235300154097982363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_44
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2318
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e407da0e242bc3690800000000000000
+      internalID: -7621020469110673330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_45
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2318
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8fa16ec9db31370800000000000000
+      internalID: 8292179820492290251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_46
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2330
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb799a2f2a36ed0800000000000000
+      internalID: -2421913011484115353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_47
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2318
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899e2a4ee4764b30800000000000000
+      internalID: 4271229863403100553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_48
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2331
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08799e152463f9f80800000000000000
+      internalID: -8097693946518857856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2312
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d51e7c9b28ade30800000000000000
+      internalID: 4529076109708451187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2314
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370fd1ffefb4b23d0800000000000000
+      internalID: -3230404749134270349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd0d8b8083fd690800000000000000
+      internalID: -7575274438102294712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2311
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24625403d141b5b0800000000000000
+      internalID: -5354426107400395732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_53
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2311
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fb1e6dbd49ac3b0800000000000000
+      internalID: -5491413123701031067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_54
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2311
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841e3d9f9a4e6eaf0800000000000000
+      internalID: -367354900892098232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2251
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c57d9f5169a17ab0800000000000000
+      internalID: -5012038674605574711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c6737b0012ba4c0800000000000000
+      internalID: -4275287134300574605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2144
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefd88692052894b0800000000000000
+      internalID: -5433552257376788500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_58
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 2146
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bacc76ceea1cc090800000000000000
+      internalID: -8013000024164349262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2096
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efec2cf9cfc6ad40800000000000000
+      internalID: 5595388053480599522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b19144f095c7e9f0800000000000000
+      internalID: -439165212281433679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_61
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 2113
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dbbba5f9f8ef230800000000000000
+      internalID: 3674532260565728565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2096
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb881c36fe392af0800000000000000
+      internalID: -420735862891312144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_63
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2018
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938bf10c0124c8fc0800000000000000
+      internalID: -3491342971408762823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_64
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 2038
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b0141ad39e37e0800000000000000
+      internalID: -1783825837543345909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_65
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 2035
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639680d856e5887b0800000000000000
+      internalID: -5221819977685243594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_66
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2017
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3b3d6a8f1a7f20800000000000000
+      internalID: 3421081546339859730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_67
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2005
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23bc410707b8a1d0800000000000000
+      internalID: -3339217882980764882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_68
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1969
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9242ef7a1767670800000000000000
+      internalID: 8536135110064613858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1955
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524defb995f4c500800000000000000
+      internalID: 415727106323726936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_70
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1955
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791e2737c16ab65f0800000000000000
+      internalID: -762333070782963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_71
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9accd9b02e51cb860800000000000000
+      internalID: 7546931136167791785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_72
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1933
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e47e5b0f74e01c30800000000000000
+      internalID: 4328210476205765865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_73
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1894
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7223420f1978a20800000000000000
+      internalID: 3064578532034357229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_74
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1895
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af8d818c9507510800000000000000
+      internalID: 1544833388133284361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_75
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1894
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cda8823941c1bc0800000000000000
+      internalID: -3811148562389345185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1894
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c578b5845969d0800000000000000
+      internalID: -2780598361622460680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_77
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1894
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806d12bdc36e14b0800000000000000
+      internalID: -5467823162473488247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_78
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1895
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ac302d6df281da0800000000000000
+      internalID: -5973972306013992309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_79
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 1895
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4088b935428e860800000000000000
+      internalID: 7559331916051645617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_80
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1871
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2015089fb0bd10800000000000000
+      internalID: 2139420482641865640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_81
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1880
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3f20629c99fa20800000000000000
+      internalID: 3096678371286793782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_82
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 1873
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92badbc8ec7a2fe70800000000000000
+      internalID: 9147558298709240617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_83
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1858
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1573a5ef9f5c994a0800000000000000
+      internalID: -6586015302547785903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_84
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1825
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656ae9e2a0c85af0800000000000000
+      internalID: -407363960335342238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_85
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1825
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f19a0ad93e3f0b0800000000000000
+      internalID: -5695958837548736639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1798
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaf04f85752242c0800000000000000
+      internalID: -4448952295043826950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1799
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6ce6a666c785b0800000000000000
+      internalID: -5366102286799180614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_88
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1798
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c71b3d668a7d80800000000000000
+      internalID: -8252135563502042829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1751
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f0155727a60a50800000000000000
+      internalID: 6487056100646516436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_90
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1751
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb425524077c6340800000000000000
+      internalID: 4858388957715647465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_91
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1748
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63577b443a650830800000000000000
+      internalID: 4036749413844472685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_92
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1748
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a0cc0ddc1f574f0800000000000000
+      internalID: -831492689906365878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7662d6fe3c0b03700800000000000000
+      internalID: 518108312729626215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1738
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14efb88e89a88c0800000000000000
+      internalID: -3996213594789363280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_95
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1738
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14a476e1b1444e00800000000000000
+      internalID: 1028018847278736410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_96
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa426b83b9f010c0800000000000000
+      internalID: -4606907869267080530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_97
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1738
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57c9070f91eef6e0800000000000000
+      internalID: -1801754727767488677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_98
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1738
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af003baa827d3a0800000000000000
+      internalID: -6640794411921769897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_99
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9fdd33dabb0630800000000000000
+      internalID: 3894411719230856217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_100
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1715
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5bcd4b1b0aede0800000000000000
+      internalID: -1303216930273141307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1684
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24545f9d40d53f4a0800000000000000
+      internalID: -6560797956730698430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9825abaafced3710800000000000000
+      internalID: 1674755197817399453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ebd1cd3e15569a0800000000000000
+      internalID: -6240491669559591365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_104
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1663
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ceef74c696df6660800000000000000
+      internalID: 7381354257313689284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_105
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1639
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155546c55ebcaee0800000000000000
+      internalID: -1248413721080539882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_106
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1607
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23a4b8ef99f63830800000000000000
+      internalID: 4050699380065608493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_107
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1593
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621b23b522d878240800000000000000
+      internalID: 4793955507057635622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_108
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1582
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e059501a406201c40800000000000000
+      internalID: 5480922547833115918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1583
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851745b7acd2f6fc0800000000000000
+      internalID: -3499528037767810728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_110
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1570
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458956dd42c60dd80800000000000000
+      internalID: -8227957613616850860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_111
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466d190cd88e587e0800000000000000
+      internalID: -1763747983526865308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_112
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1538
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2732546fc2e750800000000000000
+      internalID: 6332852055819365319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1537
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033d490e7c04e480800000000000000
+      internalID: -8870951630551567615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_114
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1538
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f1ad7c42f28fe0800000000000000
+      internalID: -1188120941333187492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_115
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1537
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8db2dc6ec130900800000000000000
+      internalID: 649394548881741985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_116
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1525
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5e17e49f2c4470800000000000000
+      internalID: 8380125323208842623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1450
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253c8c819e6077a0800000000000000
+      internalID: -6381479100576680672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_118
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1388
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c53d636ac1fcc2b0800000000000000
+      internalID: -5562805588155615802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_119
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1354
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f7f52fd5ca00dd0800000000000000
+      internalID: -2521826271829196903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_120
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1340
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34390f6852128dad0800000000000000
+      internalID: -2677353533410340029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_121
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1322
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215e0faba52e6620800000000000000
+      internalID: 2769192240186020142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_122
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6252157c6e3b40800000000000000
+      internalID: 5421890251475021601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_123
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1261
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab9ee31a7d3b880800000000000000
+      internalID: -8596290176174933347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_124
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75cf90c2582aab0800000000000000
+      internalID: -4998286212235241554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_125
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c71c2d955707b0800000000000000
+      internalID: -5258139906393783901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_126
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1137
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7655432587fc61430800000000000000
+      internalID: 3753415455142073703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_127
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1141
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b0b9813e580ca50800000000000000
+      internalID: 6539373869358844813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_128
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa74783e95e846df0800000000000000
+      internalID: -187868767722190934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_129
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a6eecdc2f1f9fc0800000000000000
+      internalID: -3486033309015840205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_130
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1117
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573b87833099dd190800000000000000
+      internalID: -7936018729245559947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_131
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1094
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2260502e9d51e90800000000000000
+      internalID: -7055493676435889409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_132
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1096
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34daec837431f400800000000000000
+      internalID: 356123516429063231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_133
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1093
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bfbd779d2460b0800000000000000
+      internalID: -5736409896690141157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_134
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1085
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08675d84feb05d70800000000000000
+      internalID: 9029927210430457867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1081
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc154a427d08b0d0800000000000000
+      internalID: -3406958333582304006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_136
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1076
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d81ba6b108897e0800000000000000
+      internalID: -1758514799245685474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1056
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69410c4f4baf4fc80800000000000000
+      internalID: -8289725358974954346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_138
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1059
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd425f589dcb95bc0800000000000000
+      internalID: -3793793568641571619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_139
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1045
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283f82fe9d3d5dd10800000000000000
+      internalID: 2149857330113082242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_140
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1040
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e4d5d281a5769a0800000000000000
+      internalID: -6239919698811728353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_141
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1018
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d201b4a1550b780800000000000000
+      internalID: -8669335711271342690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_142
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1012
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea2b60e8caacd010800000000000000
+      internalID: 1215033779218492128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_143
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 979
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d92733ff44f28ad0800000000000000
+      internalID: -2701328202248803881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_144
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 962
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbf05fb8fcaf9f60800000000000000
+      internalID: 8043337643868617726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_145
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 952
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589b54569ed26fe90800000000000000
+      internalID: -6992350890996418171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_146
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 950
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2a0756cc36d7a50800000000000000
+      internalID: 6520477565028704982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_147
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 905
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b73f039e496c2550800000000000000
+      internalID: 6137396178394757044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_148
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 890
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620d2db9a65b8a030800000000000000
+      internalID: 3506251779393376294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_149
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 868
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7524c50740ca5430800000000000000
+      internalID: 3772539049148163455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_150
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 850
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1f16e0a018a6de0800000000000000
+      internalID: -1339116058998345249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_151
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 850
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b69e3a7b1699100800000000000000
+      internalID: 115230706831551330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_152
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 832
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd42851668c9f5f0800000000000000
+      internalID: -722325924443173432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_153
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 787
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10121ba32b7208e60800000000000000
+      internalID: 7962407787633385729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_154
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 793
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e38526f9e72b0ea0800000000000000
+      internalID: -5905582600555756572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_155
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 778
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0aa85f8c816d840800000000000000
+      internalID: 5248409667138920654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_156
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fcc2efd1c6986b0800000000000000
+      internalID: -5293581010923106553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_157
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acec0b51616752140800000000000000
+      internalID: 4694288023828877002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_158
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b7850a7c396470800000000000000
+      internalID: 8388302275730716323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_159
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 96
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e92868d47ba2a00800000000000000
+      internalID: 732599432998198884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_160
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacac7afc5bda280800000000000000
+      internalID: -9030361774330033485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_161
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2fbcc206703b0e0800000000000000
+      internalID: -2255450878732668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_162
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444ff0a58bbba190800000000000000
+      internalID: -7950054534586350520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_163
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879f4efbe5059e600800000000000000
+      internalID: 498017601677752696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Undo_ads_164
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b80b0cc666584b20800000000000000
+      internalID: 3118837741463996601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Undo_ads_0: -4871172465923594664
+      Undo_ads_1: -5727669224942061936
+      Undo_ads_10: -766538010334330298
+      Undo_ads_100: -1303216930273141307
+      Undo_ads_101: -6560797956730698430
+      Undo_ads_102: 1674755197817399453
+      Undo_ads_103: -6240491669559591365
+      Undo_ads_104: 7381354257313689284
+      Undo_ads_105: -1248413721080539882
+      Undo_ads_106: 4050699380065608493
+      Undo_ads_107: 4793955507057635622
+      Undo_ads_108: 5480922547833115918
+      Undo_ads_109: -3499528037767810728
+      Undo_ads_11: 1058110700725795898
+      Undo_ads_110: -8227957613616850860
+      Undo_ads_111: -1763747983526865308
+      Undo_ads_112: 6332852055819365319
+      Undo_ads_113: -8870951630551567615
+      Undo_ads_114: -1188120941333187492
+      Undo_ads_115: 649394548881741985
+      Undo_ads_116: 8380125323208842623
+      Undo_ads_117: -6381479100576680672
+      Undo_ads_118: -5562805588155615802
+      Undo_ads_119: -2521826271829196903
+      Undo_ads_12: 6337971062035383916
+      Undo_ads_120: -2677353533410340029
+      Undo_ads_121: 2769192240186020142
+      Undo_ads_122: 5421890251475021601
+      Undo_ads_123: -8596290176174933347
+      Undo_ads_124: -4998286212235241554
+      Undo_ads_125: -5258139906393783901
+      Undo_ads_126: 3753415455142073703
+      Undo_ads_127: 6539373869358844813
+      Undo_ads_128: -187868767722190934
+      Undo_ads_129: -3486033309015840205
+      Undo_ads_13: 4886007548577943064
+      Undo_ads_130: -7936018729245559947
+      Undo_ads_131: -7055493676435889409
+      Undo_ads_132: 356123516429063231
+      Undo_ads_133: -5736409896690141157
+      Undo_ads_134: 9029927210430457867
+      Undo_ads_135: -3406958333582304006
+      Undo_ads_136: -1758514799245685474
+      Undo_ads_137: -8289725358974954346
+      Undo_ads_138: -3793793568641571619
+      Undo_ads_139: 2149857330113082242
+      Undo_ads_14: 4631753494519087847
+      Undo_ads_140: -6239919698811728353
+      Undo_ads_141: -8669335711271342690
+      Undo_ads_142: 1215033779218492128
+      Undo_ads_143: -2701328202248803881
+      Undo_ads_144: 8043337643868617726
+      Undo_ads_145: -6992350890996418171
+      Undo_ads_146: 6520477565028704982
+      Undo_ads_147: 6137396178394757044
+      Undo_ads_148: 3506251779393376294
+      Undo_ads_149: 3772539049148163455
+      Undo_ads_15: 8951234207470172843
+      Undo_ads_150: -1339116058998345249
+      Undo_ads_151: 115230706831551330
+      Undo_ads_152: -722325924443173432
+      Undo_ads_153: 7962407787633385729
+      Undo_ads_154: -5905582600555756572
+      Undo_ads_155: 5248409667138920654
+      Undo_ads_156: -5293581010923106553
+      Undo_ads_157: 4694288023828877002
+      Undo_ads_158: 8388302275730716323
+      Undo_ads_159: 732599432998198884
+      Undo_ads_16: 8973581923034889425
+      Undo_ads_160: -9030361774330033485
+      Undo_ads_161: -2255450878732668173
+      Undo_ads_162: -7950054534586350520
+      Undo_ads_163: 498017601677752696
+      Undo_ads_164: 3118837741463996601
+      Undo_ads_17: 5132497424011393619
+      Undo_ads_18: -3817848432750464434
+      Undo_ads_19: -1329565250673759549
+      Undo_ads_2: -291600447122424749
+      Undo_ads_20: 3786769650575962065
+      Undo_ads_21: -6411103104968339952
+      Undo_ads_22: -7421814833017673586
+      Undo_ads_23: -1583379570271420452
+      Undo_ads_24: 4208909447210169101
+      Undo_ads_25: 1400279861418584466
+      Undo_ads_26: -5235333028206483377
+      Undo_ads_27: -5119863047502172714
+      Undo_ads_28: 2141403927810741071
+      Undo_ads_29: 2845266756553330706
+      Undo_ads_3: 5450476956829955992
+      Undo_ads_30: -88268773087770853
+      Undo_ads_31: 5749267404822553541
+      Undo_ads_32: 3822170469778035281
+      Undo_ads_33: 3795036114808132798
+      Undo_ads_34: 5141960796249646783
+      Undo_ads_35: 4363505742477817355
+      Undo_ads_36: 4656999719660566829
+      Undo_ads_37: 1959377249761533649
+      Undo_ads_38: 5755911469376493390
+      Undo_ads_39: 5911824653129746225
+      Undo_ads_4: 2116698554390025021
+      Undo_ads_40: 1611977378016094137
+      Undo_ads_41: 411223997449233692
+      Undo_ads_42: -1128994389203617219
+      Undo_ads_43: -7235300154097982363
+      Undo_ads_44: -7621020469110673330
+      Undo_ads_45: 8292179820492290251
+      Undo_ads_46: -2421913011484115353
+      Undo_ads_47: 4271229863403100553
+      Undo_ads_48: -8097693946518857856
+      Undo_ads_49: 4529076109708451187
+      Undo_ads_5: 4934863464643661743
+      Undo_ads_50: -3230404749134270349
+      Undo_ads_51: -7575274438102294712
+      Undo_ads_52: -5354426107400395732
+      Undo_ads_53: -5491413123701031067
+      Undo_ads_54: -367354900892098232
+      Undo_ads_55: -5012038674605574711
+      Undo_ads_56: -4275287134300574605
+      Undo_ads_57: -5433552257376788500
+      Undo_ads_58: -8013000024164349262
+      Undo_ads_59: 5595388053480599522
+      Undo_ads_6: 9148810207192988707
+      Undo_ads_60: -439165212281433679
+      Undo_ads_61: 3674532260565728565
+      Undo_ads_62: -420735862891312144
+      Undo_ads_63: -3491342971408762823
+      Undo_ads_64: -1783825837543345909
+      Undo_ads_65: -5221819977685243594
+      Undo_ads_66: 3421081546339859730
+      Undo_ads_67: -3339217882980764882
+      Undo_ads_68: 8536135110064613858
+      Undo_ads_69: 415727106323726936
+      Undo_ads_7: 5315190121225035897
+      Undo_ads_70: -762333070782963305
+      Undo_ads_71: 7546931136167791785
+      Undo_ads_72: 4328210476205765865
+      Undo_ads_73: 3064578532034357229
+      Undo_ads_74: 1544833388133284361
+      Undo_ads_75: -3811148562389345185
+      Undo_ads_76: -2780598361622460680
+      Undo_ads_77: -5467823162473488247
+      Undo_ads_78: -5973972306013992309
+      Undo_ads_79: 7559331916051645617
+      Undo_ads_8: -5884520481936315847
+      Undo_ads_80: 2139420482641865640
+      Undo_ads_81: 3096678371286793782
+      Undo_ads_82: 9147558298709240617
+      Undo_ads_83: -6586015302547785903
+      Undo_ads_84: -407363960335342238
+      Undo_ads_85: -5695958837548736639
+      Undo_ads_86: -4448952295043826950
+      Undo_ads_87: -5366102286799180614
+      Undo_ads_88: -8252135563502042829
+      Undo_ads_89: 6487056100646516436
+      Undo_ads_9: -7995972289458808559
+      Undo_ads_90: 4858388957715647465
+      Undo_ads_91: 4036749413844472685
+      Undo_ads_92: -831492689906365878
+      Undo_ads_93: 518108312729626215
+      Undo_ads_94: -3996213594789363280
+      Undo_ads_95: 1028018847278736410
+      Undo_ads_96: -4606907869267080530
+      Undo_ads_97: -1801754727767488677
+      Undo_ads_98: -6640794411921769897
+      Undo_ads_99: 3894411719230856217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
