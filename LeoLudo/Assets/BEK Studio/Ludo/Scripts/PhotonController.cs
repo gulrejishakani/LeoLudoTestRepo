@@ -181,7 +181,7 @@ namespace BEKStudio
                 requiredPlayers = (int)PhotonNetwork.CurrentRoom.CustomProperties["playerCount"];
             }
 
-            MenuController.Instance.OnlineInfoMsg("Joined Room \n" + PhotonNetwork.PlayerList.Length + "/" + (int)PhotonNetwork.CurrentRoom.CustomProperties["playerCount"]);
+            MenuController.Instance.OnlineInfoMsg("Joined Room \n" + PhotonNetwork.PlayerList.Length + "/" + requiredPlayers);
 
             if (PhotonNetwork.PlayerList.Length == requiredPlayers)
             {

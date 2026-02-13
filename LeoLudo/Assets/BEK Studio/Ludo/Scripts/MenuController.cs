@@ -415,6 +415,7 @@ namespace BEKStudio
         }
 
 
+
         //OLD FUNCTIONS
         public void MainOnlineBtn()
         {
@@ -947,7 +948,7 @@ namespace BEKStudio
         //    GUIUtility.systemCopyBuffer = InviteLink;
         //    LinkTextAnimation();
         //}
-        private void LinkTextAnimation()
+        public void LinkTextAnimation()
         {
             linkGameObject.SetActive(true);
             LeanTween.scale(linkGameObject, Vector2.one, 0.2f).setEaseOutBack().setOnComplete(() =>

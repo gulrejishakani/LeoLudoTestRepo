@@ -65,15 +65,21 @@ namespace BEKStudio
 
         IEnumerator JoinFriendRoomAuto()
         {
+            while (PhotonController.Instance == null)
+                yield return null;
+
             PhotonController.Instance.Connect();
 
             while (!PhotonNetwork.IsConnectedAndReady)
                 yield return null;
 
-            while (!PhotonNetwork.InLobby)
-                yield return null;
+
 
             PhotonNetwork.JoinRoom(roomCode);
+
+            Debug.Log("Attempting to join room: " + PhotonNetwork.CurrentRoom.MaxPlayers);
+
+            MenuController.Instance.LinkTextAnimation();
         }
     }
 }
