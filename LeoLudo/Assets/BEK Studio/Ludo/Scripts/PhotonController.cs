@@ -231,7 +231,7 @@ namespace BEKStudio
             {
                 MenuController.Instance.OnlineInfoMsg(
                     "Room Created!\nRoom Code: " + PhotonNetwork.CurrentRoom.Name +
-                    "\nWaiting for friend..."
+                    "Joined : " + PhotonNetwork.PlayerList.Length + "/" + PlayerPrefs.GetInt("playerCount")
                 );
             }
         }
