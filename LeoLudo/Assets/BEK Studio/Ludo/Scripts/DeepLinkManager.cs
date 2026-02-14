@@ -58,12 +58,18 @@ namespace BEKStudio
 
             PlayerPrefs.SetString("mode", "friend");
             PlayerPrefs.SetInt("playerCount", playerCount);
+            PlayerPrefs.SetInt("joinByLink", 1); // Flag to indicate joining via deep link G
+            PlayerPrefs.SetString("joinRoomName", roomCode); // Store the room code for later use G
             PlayerPrefs.Save();
 
             StartCoroutine(JoinFriendRoomAuto());
         }
 
-        IEnumerator JoinFriendRoomAuto()
+
+
+
+//Pranav Changes: Commented out auto join logic for now, will revisit after testing link generation and manual joining works fine
+        /*IEnumerator JoinFriendRoomAuto()
         {
             while (PhotonController.Instance == null)
                 yield return null;
@@ -80,6 +86,27 @@ namespace BEKStudio
             Debug.Log("Attempting to join room: " + PhotonNetwork.CurrentRoom.MaxPlayers);
 
             MenuController.Instance.LinkTextAnimation();
-        }
+        }*/
+
+//Gulrej Changes: Updated auto join logic to set flags and let PhotonController decide whether to join or create room based on flags
+
+        IEnumerator JoinFriendRoomAuto()
+{
+    while (PhotonController.Instance == null)
+        yield return null;
+
+    // Flag set: batao ki hum JOIN kar rahe hain, CREATE nahi
+    PlayerPrefs.SetInt("joinByLink", 1);
+    PlayerPrefs.SetString("joinRoomName", roomCode);
+    PlayerPrefs.Save();
+
+    PhotonController.Instance.Connect();
+
+    // Yahan direct JoinRoom mat karo
+    // PhotonController.OnJoinedLobby() decide karega join ya create
+
+    MenuController.Instance.LinkTextAnimation();
+}
+
     }
 }

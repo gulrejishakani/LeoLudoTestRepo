@@ -87,6 +87,21 @@ namespace BEKStudio
 
         public override void OnJoinedLobby()
         {
+            
+            //  Check: kya link se join karna hai?
+            
+    if (PlayerPrefs.GetInt("joinByLink", 0) == 1)
+    {
+        string roomToJoin = PlayerPrefs.GetString("joinRoomName");
+        Debug.Log("Joining room by link: " + roomToJoin);
+
+        PhotonNetwork.JoinRoom(roomToJoin);
+        return;
+    }
+            
+       //Gulrej Changes: Added condition to check game mode before deciding to create or find room     
+            
+            
             //FindRoom();
             if (gameMode() == "friend")
             {
@@ -162,6 +177,12 @@ namespace BEKStudio
 
         public override void OnJoinedRoom()
         {
+           
+           // Clear join flag
+    PlayerPrefs.SetInt("joinByLink", 0);
+    PlayerPrefs.Save();
+           //Gulrej Changes: Added condition to check if player joined via link and update the UI accordingly
+           
             PhotonNetwork.AutomaticallySyncScene = true;
 
             ExitGames.Client.Photon.Hashtable userHastable = new ExitGames.Client.Photon.Hashtable();
@@ -236,7 +257,14 @@ namespace BEKStudio
             }
         }
 
-        public override void OnPlayerEnteredRoom(Player newPlayer)
+
+
+
+
+
+// Old Code
+
+     /*   public override void OnPlayerEnteredRoom(Player newPlayer)
         {
             MenuController.Instance.OnlineInfoMsg("Joined Room \n" + PhotonNetwork.PlayerList.Length + "/" + PlayerPrefs.GetInt("playerCount"));
 
@@ -249,7 +277,52 @@ namespace BEKStudio
                     StartCoroutine(DelayForCustomProperties());
                 }
             }
+        }*/
+
+// New Code 
+
+
+
+
+public override void OnPlayerEnteredRoom(Player newPlayer)
+{
+    int requiredPlayers;
+
+    if (gameMode() == "friend")
+    {
+        requiredPlayers = PhotonNetwork.CurrentRoom.MaxPlayers;
+    }
+    else
+    {
+        requiredPlayers = (int)PhotonNetwork.CurrentRoom.CustomProperties["playerCount"];
+    }
+
+    MenuController.Instance.OnlineInfoMsg(
+        "Joined Room \n" + PhotonNetwork.PlayerList.Length + "/" + requiredPlayers
+    );
+
+    if (PhotonNetwork.PlayerList.Length == requiredPlayers)
+    {
+        MenuController.Instance.OnlineInfoMsg("Starting...");
+
+        if (PhotonNetwork.IsMasterClient)
+        {
+            StartCoroutine(DelayForCustomProperties());
         }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
         public override void OnPlayerLeftRoom(Player otherPlayer)
         {
